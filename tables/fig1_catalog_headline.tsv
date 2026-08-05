@@ -1,0 +1,12 @@
+metric	value	source
+catalog_isoquant_done_runs	453	frozen release 20260803 (single-cell long-read scope)
+catalog_gse	34	unique gse among done
+catalog_isoquant_cells	923389	sum isoquant_cells
+catalog_human_runs	117	species==human
+catalog_mouse_runs	336	species==mouse
+catalog_ont_runs	399	platform==ONT
+catalog_pacbio_runs	54	platform==PacBio
+labeled_studies	15	cohort_headline.json
+labeled_runs	67	cohort_headline.json
+labeled_annotated_cells	452213	cohort_headline.json
+isoforms_catalog_bound	>200k	qualitative bound (portal/docs); not recounted this freeze

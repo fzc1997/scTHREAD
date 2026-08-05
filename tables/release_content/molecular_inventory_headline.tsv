@@ -1,0 +1,9 @@
+metric	value	unit	interpretation
+feature_complete_runs	155	runs	Runs with all six contracted IsoQuant output types.
+feature_complete_studies	28	studies	Studies represented by feature-complete runs.
+feature_complete_cells	1044933	called cells	Sum of frozen isoquant_cells across feature-complete runs.
+reference_run_transcript_detections	5700645	positive run-by-reference-transcript rows	Positive rows in transcript_counts.tsv; repeated Ensembl identities in different runs remain separate detections.
+discovered_run_transcript_detections	12471531	positive run-by-discovered-transcript rows	Positive rows in discovered_transcript_counts.tsv; this is not a globally deduplicated isoform count.
+discovered_isoquant_novel_run_transcript_detections	8698826	positive run-by-IsoQuant-novel-transcript rows	Novel IDs are run-local and are not deduplicated across runs.
+unique_reference_transcripts_observed	210341	species-qualified Ensembl transcript IDs	Union within species of positive Ensembl transcript IDs.
+unique_gene_ids_observed	65279	species-qualified gene IDs	Union within species of positive gene-count feature IDs.

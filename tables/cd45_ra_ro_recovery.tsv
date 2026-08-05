@@ -1,0 +1,9 @@
+ct	PTPRC-201_molecules	PTPRC-209_molecules	molecules	short_model_fraction
+B cell	45.0	1543.0	1588.0	0.0283
+Plasma cell	1.0	13.0	14.0	0.0714
+NK	153.0	1260.0	1413.0	0.1083
+Progenitor	21.0	60.0	81.0	0.2593
+Dendritic cell	40.0	62.0	102.0	0.3922
+T cell	827.0	757.0	1584.0	0.5221
+Erythroid	116.0	101.0	217.0	0.5346
+Monocyte	987.0	575.0	1562.0	0.6319

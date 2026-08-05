@@ -1,0 +1,8 @@
+{
+ "ref_transcripts": 226005,
+ "observed_union": 105806,
+ "observed_frac": 0.46815778411982034,
+ "debt_frac": 0.5318422158801797,
+ "n_studies": 13,
+ "n_runs": 63
+}

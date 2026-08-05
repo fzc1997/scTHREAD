@@ -1,0 +1,5 @@
+species_bin	platform_bin	n_runs	isoquant_cells
+human	ONT	86	604776
+human	PacBio	31	147149
+mouse	ONT	313	243648
+mouse	PacBio	23	49658

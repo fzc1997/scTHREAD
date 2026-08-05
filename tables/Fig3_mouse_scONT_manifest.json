@@ -1,0 +1,58 @@
+{
+  "figure": "NAR_Fig3_mouse_scONT_v1",
+  "role": "alternative mouse OWN_ASE_scONT use case; does not replace preferred PTPRC Figure 3",
+  "project_cohort": {
+    "study_id": "OWN_ASE_scONT",
+    "runs": 6,
+    "registered_cells": 68417,
+    "stages": [
+      "E6.5",
+      "E7.5",
+      "E8.5"
+    ],
+    "platform": "ONT",
+    "species": "mouse"
+  },
+  "analysis_subset": {
+    "cells": 25621,
+    "cell_types": 24,
+    "genes_with_isoforms": 47972,
+    "isoforms": 182689
+  },
+  "guardrails": [
+    "68,417 registered project cells and 25,621 DTU-analysis cells are distinct denominators",
+    "isoform trajectories are descriptive proportions and do not establish mechanism",
+    "developmental DRIMSeq uses cell-bootstrap pseudo-replicates, not independent embryos",
+    "cell-type allele-ratio heterogeneity is a gene-level max-versus-min screen, not isoform-level AS-DTU",
+    "cell-type allele-ratio heterogeneity is not equivalent to imprinting"
+  ],
+  "inputs": {
+    "project/scTHREAD/NAR_database/tables/fig1_study_atlas.tsv": {
+      "sha256": "a7997c8f99a92fcbe1c5b31e08417a72d4acbcc436fd0d703464f049ae090683"
+    },
+    "project/ASE/cc/config/ISOform/06_isoform_identification/dtu_analysis/tables/Table1_sample_statistics.tsv": {
+      "sha256": "fd204a63d7f83d7cd20242e69a722ee095712c4014bb3ab14ae299a80fee7088"
+    },
+    "project/ASE/cc/config/ISOform/06_isoform_identification/dtu_analysis/tables/ST1_celltype_annotation.tsv": {
+      "sha256": "5072bda31ba56f4c7cb5ecc116bf3537d0c49dd1fb441ecca95556f6423c3554"
+    },
+    "project/ASE/cc/config/ISOform/06_isoform_identification/dtu_analysis/results/developmental_DTU_multi_celltype_summary.tsv": {
+      "sha256": "e4936d8a58715c49dc20b8a7018e268176997ce2c2f6a7f42fab11374a8d168d"
+    },
+    "project/ASE/cc/config/ISOform/06_isoform_identification/dtu_analysis/results/nature_cases_developmental.tsv": {
+      "sha256": "91c5759c0bd1ec5cb75d72e0842e1506c652fbb1f416aea948084c3801ed197f"
+    },
+    "project/ASE/cc/config/ISOform/06_isoform_identification/dtu_analysis/results/E65_LR_allele_specific_DTU_v2.tsv": {
+      "sha256": "86357b5462edb837885a584ba79c961827b54d628d37540e194ec74ff1eefe0a"
+    },
+    "project/scTHREAD/web/data/mouse_gene_intervals_grcm39.tsv": {
+      "sha256": "e1aeec7ea11c83849faffd9cef908d6bd63af33e65b2546ea27cef79f323c2fa"
+    }
+  },
+  "source_tables": [
+    "project/scTHREAD/NAR_database/tables/Fig3_mouse_scONT_cell_composition.tsv",
+    "project/scTHREAD/NAR_database/tables/Fig3_mouse_scONT_lineage_DTU.tsv",
+    "project/scTHREAD/NAR_database/tables/Fig3_mouse_scONT_Tnrc6c_switch.tsv",
+    "project/scTHREAD/NAR_database/tables/Fig3_mouse_scONT_AS_DTU.tsv"
+  ]
+}

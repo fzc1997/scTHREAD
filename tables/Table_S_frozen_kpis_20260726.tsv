@@ -1,0 +1,12 @@
+kpi	value	note
+catalog_isoquant_done_runs	478	live recompute 20260726
+catalog_gse	33	unique GSE among done
+catalog_isoquant_cells	941733	sum isoquant_cells
+catalog_human_runs	113	
+catalog_mouse_runs	360	
+catalog_ont_runs	428	
+catalog_pacbio_runs	50	
+analysis_studies	15	cohort_headline.json
+analysis_runs	67	cohort_headline.json
+analysis_annotated_cells	452213	cohort_headline.json
+isoforms_catalog	>200k	qualitative bound; not re-counted this freeze

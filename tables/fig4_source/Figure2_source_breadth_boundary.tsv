@@ -1,0 +1,7 @@
+comparison	gene	median_effect	estimable_donors	positive_donors
+Monocyte − T	CCND3	0.8677325369489548	20	20
+Monocyte − T	CUTA	0.47483711643547705	20	20
+Monocyte − T	PSMB8	0.3921617634016753	20	20
+Neutrophil − B/NK	CCND3	0.2970865206541462	20	18
+Neutrophil − B/NK	CUTA	-0.26190476190476186	1	0
+Neutrophil − B/NK	PSMB8	0.23521738118512314	20	20

@@ -1,0 +1,32 @@
+{
+  "schema": "scTHREAD.ase_allelic_imbalance_feature.v1",
+  "runs_in": 93,
+  "genes_tested": 37415,
+  "sig_imbalanced_genes_q05_eff10": 9880,
+  "recurrent_genes_ge3_donors": 28024,
+  "min_depth": 20,
+  "effect_threshold": 0.1,
+  "min_donors": 2,
+  "per_study_baseline": {
+    "GSA_mouse_testis_11week": 0.485,
+    "GSE130708": 0.5087,
+    "GSE178175": 0.4902,
+    "GSE212945": 0.499,
+    "GSE224045": 0.4755,
+    "GSE248118": 0.4947,
+    "GSE255520": 0.4664,
+    "GSE274249": 0.4894,
+    "GSE276974": 0.4691,
+    "GSE283629": 0.493,
+    "GSE283658": 0.4974,
+    "GSE288222": 0.498,
+    "GSE289790": 0.4603,
+    "GSE295932": 0.4803,
+    "GSE301658": 0.4885,
+    "GSE303762": 0.4865,
+    "GSE307660": 0.4484,
+    "benagen_human_ovary": 0.4838
+  },
+  "note": "Allelic imbalance vs per-study reference-mapping-bias baseline (not 0.5). Complements the cell-type-differential ASE test (0 sig, underpowered). New datasets folded in: benagen_human_ovary, GSA_mouse_testis_11week.",
+  "output": "tables/ase_allelic_imbalance_feature_20260802.tsv"
+}

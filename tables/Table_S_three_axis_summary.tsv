@@ -1,0 +1,4 @@
+axis	n_genes_tested	n_sig_fdr05_effect_gate	frac_raw_p_lt_0.05	source
+ASE	6930	0	0.07763347763347764	tables/p0_biological_unit_rerun/ase_observed_9999.tsv
+DIU	8092	2008	0.458477508650519	tables/p0_biological_unit_rerun/diu_observed_9999.tsv
+APA	10531	2558	0.5506599563194379	tables/p0_biological_unit_rerun/apa_observed_9999.tsv

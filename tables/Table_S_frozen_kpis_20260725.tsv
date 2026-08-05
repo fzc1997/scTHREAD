@@ -1,0 +1,7 @@
+kpi	value	note
+catalog_isoquant_done_runs	468	sample_registry isoquant_status=done
+catalog_gse	31	unique GSE among done
+catalog_isoquant_cells	844864	sum isoquant_cells
+analysis_studies	15	cohort_headline.json
+analysis_runs	67	cohort_headline.json
+analysis_annotated_cells	452213	cohort_headline.json

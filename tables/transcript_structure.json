@@ -1,0 +1,52 @@
+{
+  "runs": [
+    "SRR35267327",
+    "SRR35267328",
+    "SRR35267329",
+    "SRR35267330",
+    "SRR35267331",
+    "SRR35267332",
+    "SRR35267333",
+    "SRR35267334"
+  ],
+  "groups": {
+    "annotated": {
+      "n_models": 272328,
+      "exons": {
+        "n": 272328,
+        "median": 5.0,
+        "q1": 3,
+        "q3": 9,
+        "mono_exon_pct": null
+      },
+      "spliced_length_bp": {
+        "n": 272328,
+        "median": 1603.0,
+        "q1": 789,
+        "q3": 2831,
+        "mono_exon_pct": null
+      },
+      "multi_exon_pct": 95.0,
+      "exons_ge5_pct": 57.6
+    },
+    "assembled": {
+      "n_models": 438207,
+      "exons": {
+        "n": 438207,
+        "median": 3,
+        "q1": 2,
+        "q3": 5,
+        "mono_exon_pct": null
+      },
+      "spliced_length_bp": {
+        "n": 438207,
+        "median": 1016,
+        "q1": 704,
+        "q3": 1472,
+        "mono_exon_pct": null
+      },
+      "multi_exon_pct": 100.0,
+      "exons_ge5_pct": 25.5
+    }
+  }
+}

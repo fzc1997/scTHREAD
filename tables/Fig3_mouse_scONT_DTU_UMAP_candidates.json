@@ -1,0 +1,108 @@
+{
+  "purpose": "coverage-aware selection of a real E6.5 cell-type DTU web-UMAP example",
+  "selection_rule": "at least two significant isoforms; rank by summed non-zero cells of the two most-covered isoforms, then maximum absolute usage difference",
+  "candidate_genes": 268,
+  "top10": [
+    {
+      "Gene_ID": "ENSMUSG00000040952",
+      "n_visible_isoforms": 2,
+      "top2_expressing_cells": 8929,
+      "top2_molecules": 14906.586830458595,
+      "max_abs_prop_diff": 0.0541083874308064,
+      "min_fdr": 0.0001684791987416,
+      "gene_name": "Rps19",
+      "top_isoforms": "ENSMUST00000108430;ENSMUST00000108429"
+    },
+    {
+      "Gene_ID": "ENSMUSG00000044533",
+      "n_visible_isoforms": 2,
+      "top2_expressing_cells": 8922,
+      "top2_molecules": 17272.42757018981,
+      "max_abs_prop_diff": 0.0552219674045947,
+      "min_fdr": 3.6059695335052e-07,
+      "gene_name": "Rps2",
+      "top_isoforms": "ENSMUST00000170715;ENSMUST00000054289"
+    },
+    {
+      "Gene_ID": "ENSMUSG00000028234",
+      "n_visible_isoforms": 2,
+      "top2_expressing_cells": 8902,
+      "top2_molecules": 18448.27000772652,
+      "max_abs_prop_diff": 0.107724706563696,
+      "min_fdr": 1.26569937715744e-43,
+      "gene_name": "Rps20",
+      "top_isoforms": "ENSMUST00000138502;ENSMUST00000103009"
+    },
+    {
+      "Gene_ID": "ENSMUSG00000039001",
+      "n_visible_isoforms": 2,
+      "top2_expressing_cells": 8874,
+      "top2_molecules": 15570.038798453154,
+      "max_abs_prop_diff": 0.0441556928362876,
+      "min_fdr": 1.6840373871031002e-16,
+      "gene_name": "Rps21",
+      "top_isoforms": "ENSMUST00000059080;ENSMUST00000148629"
+    },
+    {
+      "Gene_ID": "ENSMUSG00000052146",
+      "n_visible_isoforms": 2,
+      "top2_expressing_cells": 8870,
+      "top2_molecules": 16659.727426952977,
+      "max_abs_prop_diff": 0.063401663864312,
+      "min_fdr": 1.70828323362098e-17,
+      "gene_name": "Rps10",
+      "top_isoforms": "ENSMUST00000114882;ENSMUST00000114881"
+    },
+    {
+      "Gene_ID": "ENSMUSG00000060938",
+      "n_visible_isoforms": 2,
+      "top2_expressing_cells": 8865,
+      "top2_molecules": 16070.327100454931,
+      "max_abs_prop_diff": 0.0533973818357046,
+      "min_fdr": 1.49044472349358e-06,
+      "gene_name": "Rpl26",
+      "top_isoforms": "ENSMUST00000073471;ENSMUST00000101014"
+    },
+    {
+      "Gene_ID": "ENSMUSG00000037742",
+      "n_visible_isoforms": 2,
+      "top2_expressing_cells": 8853,
+      "top2_molecules": 14709.773321481427,
+      "max_abs_prop_diff": 0.0711537553549665,
+      "min_fdr": 9.86197661168986e-34,
+      "gene_name": "Eef1a1",
+      "top_isoforms": "ENSMUST00000042235;ENSMUST00000156988"
+    },
+    {
+      "Gene_ID": "ENSMUSG00000020857",
+      "n_visible_isoforms": 2,
+      "top2_expressing_cells": 8849,
+      "top2_molecules": 13380.827483301004,
+      "max_abs_prop_diff": 0.0321520615379678,
+      "min_fdr": 0.0422277482838498,
+      "gene_name": "Nme2",
+      "top_isoforms": "ENSMUST00000021217;ENSMUST00000072566"
+    },
+    {
+      "Gene_ID": "ENSMUSG00000006333",
+      "n_visible_isoforms": 2,
+      "top2_expressing_cells": 8838,
+      "top2_molecules": 14562.370724891229,
+      "max_abs_prop_diff": 0.10973450349132,
+      "min_fdr": 4.6681085307189697e-26,
+      "gene_name": "Rps9",
+      "top_isoforms": "ENSMUST00000006496;ENSMUST00000108625"
+    },
+    {
+      "Gene_ID": "ENSMUSG00000024608",
+      "n_visible_isoforms": 2,
+      "top2_expressing_cells": 8838,
+      "top2_molecules": 13646.837657489154,
+      "max_abs_prop_diff": 0.0569236508871732,
+      "min_fdr": 1.62524051171676e-07,
+      "gene_name": "Rps14",
+      "top_isoforms": "ENSMUST00000025511;ENSMUST00000118551"
+    }
+  ],
+  "guardrail": "UMAP coverage ranks visualization suitability; DRIMSeq FDR and usage difference remain the inferential evidence"
+}

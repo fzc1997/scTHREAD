@@ -1,0 +1,4 @@
+axis	genes_tested	genes_flagged	flagged_with_pathogenic_variant	flagged_pct	background_with_pathogenic_variant	background_pct	odds_ratio	p_value
+isoform usage	7995	1990	766	38.5	1856	30.9	1.399	3.4832692438786513e-10
+poly(A)-site usage	10441	2543	916	36.0	2392	30.3	1.296	4.577447856232343e-08
+allele-specific expression	243	0	0		0	0.0		1.0

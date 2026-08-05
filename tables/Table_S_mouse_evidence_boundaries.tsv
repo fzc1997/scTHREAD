@@ -1,0 +1,4 @@
+view	source_scope	registered_project_cells	analysis_embedding_cells	portal_cells	primary_quantity	biological_replicates	inferential_scope
+Malat1 portal cell maps and usage contrast	Portal embedding, six runs across Forward and Reciprocal crosses	68417	25621	55729.0	maximum absolute isoform-usage difference between the two displayed transcripts = 0.213 (Anterior PS vs Neural crest)	not documented	descriptive within-cohort contrast; no biological-replicate P value
+Tnrc6c stage trajectory	E6.5, E7.5 and E8.5	68417	25621		stage-specific isoform-usage proportions	not documented	descriptive trajectory; no stage-level inferential claim
+Malat1 E6.5 cell-type DTU contrast (ANCHOR analysis)	Neuroectoderm versus embryonic epiblast, forward cross only	68417	25621		maximum absolute isoform-usage difference = 0.245	not documented	descriptive within-cohort contrast; no biological-replicate P value

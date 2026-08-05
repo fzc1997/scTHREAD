@@ -1,0 +1,32 @@
+{
+  "date": "20260803",
+  "catalog": {
+    "n_runs": 453,
+    "n_studies": 34,
+    "n_cells": 923389,
+    "n_human": 117,
+    "n_mouse": 336,
+    "cells_human": 736853,
+    "cells_mouse": 186536,
+    "n_ont": 399,
+    "n_pacbio": 54
+  },
+  "labeled": {
+    "n_studies": 15,
+    "n_runs": 67,
+    "n_annotated_cells": 452213
+  },
+  "outputs": [
+    "tables/fig1_build_funnel.tsv",
+    "tables/fig1_catalog_headline.tsv",
+    "tables/fig1_dual_scope.tsv",
+    "tables/fig1_layer_coverage_labeled.tsv",
+    "tables/fig1_layer_coverage_summary.tsv",
+    "tables/fig1_rolling_view_atlas.tsv",
+    "tables/fig1_species_platform.tsv",
+    "tables/fig1_study_atlas.tsv",
+    "tables/fig1_system_composition.tsv",
+    "tables/fig1_systems_biology_note.tsv",
+    "tables/Table_S_frozen_kpis_20260803.tsv"
+  ]
+}

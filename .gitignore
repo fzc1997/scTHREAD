@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+logs/
+*.log
+figures/_staging/
+figures/_old_sf/

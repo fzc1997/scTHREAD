@@ -1,3 +1,0 @@
-scope	definition	n_studies	n_runs	n_cells	cell_definition
-catalog	IsoQuant-complete runs, frozen release 20260803 (single-cell long-read scope)	34	453	923389	isoquant_cells
-labeled_analysis_subset	donor x cell-type labels for DIU/APA/ASE tables	15	67	452213	annotated cells (cohort_headline)

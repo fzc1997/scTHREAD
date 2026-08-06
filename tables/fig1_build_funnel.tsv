@@ -1,8 +1,0 @@
-stage	n	note
-registry_status:downloaded	1231	all live registry rows (20260803)
-registry_status:excluded	839	all live registry rows (20260803)
-registry_status:done	63	all live registry rows (20260803)
-registry_status:blank	6	all live registry rows (20260803)
-registry_status:pending	3	all live registry rows (20260803)
-isoquant_done_runs	453	frozen release 20260803 (single-cell long-read scope)
-labeled_runs	67	cohort_headline analysis subset

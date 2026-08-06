@@ -1,6 +1,0 @@
-model	pooled_spearman	within_junction	n_RBP
-FULL cis+RBPxexpr (220 RBP)	0.44	0.118	220.0
-FULL cis+RBPxexpr (150 RBP)	0.42	0.118	150.0
-BASELINE cell-type-mean	0.112		
-BASELINE cis-only (PWM)	0.082		
-NEG-CTRL shuffled-RBP	0.139	0.091	220.0

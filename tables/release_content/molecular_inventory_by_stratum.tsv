@@ -1,5 +1,0 @@
-species	platform	n_runs	n_studies	n_cells	run_transcript_detections	reference_transcript_detections	isoquant_novel_transcript_detections	other_transcript_detections	transcript_assigned_molecules	discovered_run_transcript_detections	discovered_reference_transcript_detections	discovered_isoquant_novel_transcript_detections	discovered_other_transcript_detections	discovered_transcript_assigned_molecules	run_gene_detections	gene_assigned_molecules	unique_reference_transcripts_observed	unique_gene_ids_observed
-human	ONT	83	15	604773	3850782	3850782	0	0	1326600677.0	6918080	2504061	4414019	0	1436415185.0	1659293	2581244529.0	133456	35369
-human	PacBio	31	5	147149	633740	633740	0	0	199552376.0	3112683	442303	2670380	0	322512788.0	361173	403317960.0	77368	28215
-mouse	ONT	30	7	243365	910024	910024	0	0	798208164.0	1242357	611280	631077	0	803232371.0	490735	1299050775.0	66741	29053
-mouse	PacBio	11	3	49646	306099	306099	0	0	50507632.0	1198411	215061	983350	0	83398795.0	161165	112623982.0	55934	24638

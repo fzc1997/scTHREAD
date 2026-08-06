@@ -1,2 +1,0 @@
-gene_symbol	ensembl_id	diu_sig	diu_qval	diu_effect	diu_n_iso	apa_sig	apa_qval	apa_effect	apa_n_pas	ase_sig	ase_qval	ase_effect	portal_url	api_path
-PTPRC	ENSG00000081237	True	0.0008786102062975	0.3382009946583691	23	True	0.0006010844748858	0.2035587076231079	51	False	0.9487670103092783	0.1938117359718749	https://scthread.ai4sc.ac.cn/browse?query=PTPRC	/api/gene/PTPRC/overview

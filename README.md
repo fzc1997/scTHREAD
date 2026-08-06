@@ -1,17 +1,21 @@
 # scTHREAD
 
-Code and frozen release tables for the scTHREAD manuscript.
+scTHREAD is a single-cell long-read transcript database for human and mouse
+(Oxford Nanopore and PacBio). The live database is freely accessible at
+https://scthread.ai4sc.ac.cn/.
 
-- Database: https://scthread.ai4sc.ac.cn/
-- Frozen release: `tables/release_20260803/` — 453 run records, 34 datasets, 923,389 cells
-- Figure provenance: `docs/Figure_Script_mapping.tsv` (which script builds which figure)
-- Scope and denominators: `docs/SCOPE_AND_DENOMINATORS.md`
+## Contents of this archive
 
-Raw sequencing data are not redistributed here; accessions are listed in the
-manuscript and in `tables/release_20260803/release_manifest.tsv`.
+- `release/` — the frozen release reported in the manuscript
+  (453 run records, 34 datasets, 923,389 cells). `release_manifest.tsv`
+  lists every source accession; raw sequencing data are not redistributed
+  here and should be retrieved from the original archives.
+- `figure_source_data/` — the tables underlying the main and supplementary
+  figures.
+- `figures/` — the final figures (Fig1–Fig4, SF1–SF4).
+- `supplementary/` — the supplementary tables workbook (S1–S15).
 
-## Licence
+## License
 
-Code in this repository is licensed under the MIT License (see `LICENSE`).
-The derived data tables and figure files are provided under CC BY 4.0
+All contents are provided under CC BY 4.0
 (https://creativecommons.org/licenses/by/4.0/).

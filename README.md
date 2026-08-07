@@ -12,7 +12,6 @@ https://scthread.ai4sc.ac.cn/.
   here and should be retrieved from the original archives.
 - `figure_source_data/` — the tables underlying the main and supplementary
   figures.
-- `figures/` — the final figures (Fig1–Fig4, SF1–SF4).
 - `supplementary/` — the supplementary tables workbook (S1–S15).
 
 ## License

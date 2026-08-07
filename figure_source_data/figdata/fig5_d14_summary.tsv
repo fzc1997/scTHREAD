@@ -1,2 +1,0 @@
-global_gene_acc	n_lose20	n_lose50	n_overlapped	immune_OR	immune_p	immune_verdict
-0.98367	2087	1427	4809	0.329	0.001012765392227138	NO enrichment - report locus/gene counts only

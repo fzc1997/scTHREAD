@@ -1,0 +1,39 @@
+{
+  "release": "scTHREAD_NAR_release_20260803",
+  "scope": "all single-cell long-read datasets, any source archive",
+  "authoritative_table": "Seq_Database/scLong/metadata/annotation/authoritative_cellcount_clean_20260802.tsv",
+  "authoritative_sha256": "2954c72113bee39bac570b1753b74b1ff15c63f044031624219386d03838c7ab",
+  "n_studies": 34,
+  "n_runs": 453,
+  "n_cells": 923389,
+  "by_species": {
+    "human": {
+      "studies": 19,
+      "runs": 97,
+      "cells": 620726
+    },
+    "human|mouse": {
+      "studies": 1,
+      "runs": 21,
+      "cells": 121244
+    },
+    "mouse": {
+      "studies": 14,
+      "runs": 335,
+      "cells": 181419
+    }
+  },
+  "by_platform": {
+    "ONT": 399,
+    "PacBio": 54
+  },
+  "cell_count_method": {
+    "T3_pipeline_caller": 17,
+    "T1_author": 11,
+    "T2_starsolo": 4,
+    "SS2_wells": 2
+  },
+  "studies_where_pipeline_sum_differs": 14,
+  "manifest_sha256": "3fa33311e58d78154dc0393ca28f20080942983c1b645d4e92cb10f0e852d55c",
+  "study_table_sha256": "cb67bfffbbc87d8d4840c9e63b266a87d6398393a8be9fdac2b38363449af50d"
+}

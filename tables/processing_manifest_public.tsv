@@ -1,0 +1,454 @@
+release_candidate	srr	gse	species	platform	isoquant_cells	isoquant_transcripts_documented	isoquant_transcripts_registry	gene_counts_available	gene_counts_bytes	transcript_counts_available	transcript_counts_bytes	read_assignments_available	read_assignments_bytes	transcript_models_available	transcript_models_bytes	extended_annotation_available	extended_annotation_bytes	discovered_transcript_counts_available	discovered_transcript_counts_bytes	diu_available	diu_bytes	apa_available	apa_bytes	junction_available	junction_bytes	ase_available	ase_bytes	file_contract_status
+scTHREAD_NAR_release_20260803	CT	GSA_mouse_testis_11week	mouse	ONT	23549	True	36273	True	836123	True	3038174	True	936283068	True	315	True	315	True	0	True	770004	True	3624349	True	25329992	True	317844	isoquant_core_complete
+scTHREAD_NAR_release_20260803	MTECTRSCRNAONTR2	GSA_mouse_testis_11week	mouse	ONT	16036	True	36123	True	836646	True	3037640	True	869079552	True	385	True	385	True	0	True	818238	True	3567112	True	19984694	True	289891	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR7173239	GSE114157	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR7173240	GSE114157	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR7173241	GSE114157	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR7173242	GSE114157	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR7173246	GSE114157	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR9008425	GSE130708	mouse	ONT	177	True	17848	True	823529	True	3024425	True	62191114	True	153899402	True	777966821	True	875956	True	449237	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR9008427	GSE130708	mouse	ONT	827	True	16782	True	820503	True	3021398	True	44419444	True	154920318	True	772481204	True	668315	True	434130	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR9008428	GSE130708	mouse	ONT	896	True	20869	True	823655	True	3024109	True	77802458	True	159614230	True	769954835	True	725274	True	558016	True	1565630	True	9467524	True	446681	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR9008429	GSE130708	mouse	ONT	922	True	22375	True	824797	True	3025670	True	87907324	True	169656156	True	773156134	True	810746	True	608308	True	1680066	True	11514808	True	455362	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR9008431	GSE130708	mouse	ONT	917	True	20940	True	823365	True	3024050	True	72873756	True	159530787	True	770312476	True	719547	True	560225	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR9008433	GSE130708	mouse	ONT	905	True	19001	True	822979	True	3023563	True	68738857	True	153574692	True	771658033	True	722772	True	510169	True	1474545	True	9874235	True	417282	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR12699083	GSE158450	mouse	PacBio	7286	True	37347	True	837165	True	3042321	True	385500882	True	286308326	True	837924848	True	5401739	False	0	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR12699084	GSE158450	mouse	PacBio	5273	True	25993	True	829054	True	3028666	True	135345497	True	211573692	True	809956121	True	3619072	False	0	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR12699085	GSE158450	mouse	PacBio	3146	True	26624	True	827355	True	3028085	True	114210871	True	208358901	True	800697527	True	2843973	False	0	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR12699086	GSE158450	mouse	PacBio	2474	True	22505	True	826518	True	3025518	True	104371901	True	186085417	True	800129229	True	2882205	False	0	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR14808726	GSE178175	human	PacBio	5135	True	4916	True	812150	True	4746333	True	10677299	True	43595409	True	1343201091	True	470961	True	33730	False	0	False	0	True	92640	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR14808727	GSE178175	human	PacBio	5224	True	6786	True	814052	True	4746582	True	16432719	True	61403975	True	1347872054	True	846689	False	0	False	0	False	0	True	120055	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR14808728	GSE178175	human	PacBio	7739	True	16116	True	818062	True	4748374	True	34459681	True	121620493	True	1360094539	True	1250635	True	66489	False	0	False	0	True	259756	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR14808729	GSE178175	human	PacBio	7738	True	19118	True	819917	True	4749421	True	48090114	True	137336788	True	1368027995	True	1655028	True	125509	False	0	False	0	True	302956	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR14808730	GSE178175	human	PacBio	7658	True	18013	True	819226	True	4749024	True	42986780	True	132845705	True	1365629600	True	1515207	True	103802	False	0	False	0	True	289194	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR14808732	GSE178175	human	PacBio	7745	True	17763	True	819078	True	4748927	True	41303203	True	130111761	True	1363910561	True	1458010	True	94767	False	0	False	0	True	281644	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR14808733	GSE178175	human	PacBio	7692	True	17390	True	818855	True	4748802	True	39406603	True	127923996	True	1363126007	True	1405896	True	89384	False	0	False	0	True	275855	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR14808735	GSE178175	human	PacBio	7639	True	16457	True	818065	True	4748460	True	34840268	True	122687176	True	1360508750	True	1248935	True	72951	False	0	False	0	True	261313	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR14808736	GSE178175	human	PacBio	5851	True	9020	True	813785	True	4746907	True	12767611	True	80717165	True	1344417158	True	478155	False	0	False	0	False	0	True	110209	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR14808737	GSE178175	human	PacBio	3881	True	4260	True	811434	True	4746277	True	4338932	True	49239948	True	1339508452	True	174741	True	35630	False	0	False	0	True	37613	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR14808738	GSE178175	human	PacBio	4719	True	6213	True	812287	True	4746477	True	7271172	True	63921115	True	1341161610	True	286301	True	58250	False	0	False	0	True	63655	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR14808739	GSE178175	human	PacBio	4243	True	5050	True	811774	True	4746348	True	5587224	True	55118981	True	1340083979	True	218722	True	44341	False	0	False	0	True	48709	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR14808740	GSE178175	human	PacBio	6239	True	11334	True	815150	True	4747354	True	18179439	True	94842203	True	1347545817	True	664150	True	6885	False	0	False	0	True	144109	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR14808741	GSE178175	human	PacBio	4078	True	4953	True	811709	True	4746327	True	5190813	True	54768955	True	1339957449	True	207813	True	42274	False	0	False	0	True	45802	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR14808743	GSE178175	human	ONT	7770	True	39616	True	829627	True	4758487	True	200986316	True	176094310	True	1367215048	True	1483856	True	608543	True	3671404	True	21178757	True	637343	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR14808744	GSE178175	human	ONT	678	True	673	True	810795	True	4746171	True	571261	True	10106825	True	1337962419	True	23024	True	4101	False	0	False	0	True	6654	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR14808745	GSE178175	human	ONT	7879	True	57758	True	839022	True	4775538	True	622538850	True	230049306	True	1383224330	True	2288348	True	1093613	True	5703670	True	30457555	True	514835	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR14808746	GSE178175	human	ONT	7050	True	52084	True	834982	True	4768166	True	417400634	True	197460388	True	1363436895	True	1588039	True	831771	True	4418164	True	22099194	True	667054	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR14808747	GSE178175	human	ONT	1153	True	1181	True	810822	True	4746175	True	909008	True	15281741	True	1338081225	True	41296	True	8660	False	0	False	0	True	7938	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR17074937	GSE178175	human	PacBio	6016	True	7227	True	813788	True	4746499	True	22314187	True	75418230	True	1355878680	True	1429666	True	1790	False	0	False	0	True	204662	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR17074938	GSE178175	mouse	ONT	5117	True	20565	True	820856	True	3021434	True	42313638	True	131030742	True	762587933	True	454537	False	0	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR16248566	GSE185554	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR16248568	GSE185554	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR16248569	GSE185554	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR16248570	GSE185554	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR16248571	GSE185554	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR16248573	GSE185554	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR16248574	GSE185554	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR16248575	GSE185554	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR16248576	GSE185554	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR16248577	GSE185554	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR16248578	GSE185554	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR16248579	GSE185554	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR16248581	GSE185554	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR16248582	GSE185554	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR16248583	GSE185554	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR16248584	GSE185554	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR16248585	GSE185554	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR16248586	GSE185554	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR16248587	GSE185554	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR16248588	GSE185554	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR16248589	GSE185554	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR16248590	GSE185554	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR16248591	GSE185554	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR16248592	GSE185554	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR16248593	GSE185554	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR16248594	GSE185554	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR16248595	GSE185554	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR16248596	GSE185554	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR16248597	GSE185554	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR16248598	GSE185554	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR16248599	GSE185554	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR16248601	GSE185554	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR16248602	GSE185554	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR16248603	GSE185554	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR16248606	GSE185554	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR16248607	GSE185554	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR16248608	GSE185554	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR16248609	GSE185554	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR16248610	GSE185554	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR16248611	GSE185554	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR16248612	GSE185554	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR16248613	GSE185554	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR21492154	GSE212945	human	ONT	6603	True	51834	True	842674	True	4777095	True	837359276	True	236899456	True	1375227237	True	2377623	True	624606	True	3283759	True	20054406	True	216798	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR21492155	GSE212945	human	ONT	8429	True	52177	True	840001	True	4773777	True	834139105	True	222704668	True	1356699818	True	1522680	True	626010	True	3473733	True	23599993	True	271389	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR21492156	GSE212945	human	ONT	3690	True	50813	True	843407	True	4776878	True	967055021	True	253290868	True	1409631331	True	4197022	True	631615	True	2344040	True	17474185	True	248429	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR21492157	GSE212945	human	ONT	3587	True	41320	True	836346	True	4765119	True	415794817	True	203314396	True	1369542967	True	1986349	True	519945	True	2229653	True	12299146	True	238157	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR34318914	GSE212945	human	ONT	3672	True	49600	True	839096	True	4771595	True	780997629	True	226712547	True	1355120870	True	1370480	True	572745	True	3756109	True	21150506	True	205876	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR34318915	GSE212945	human	ONT	4059	True	28873	True	828543	True	4756059	True	234394794	True	138692311	True	1343040238	True	618167	False	0	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR21714350	GSE214231	human	PacBio	0	True	868	True	811143	True	4746308	True	9065418	True	9423139	True	1339358900	True	111872	True	17289	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR21714351	GSE214231	human	PacBio	0	True	810	True	811107	True	4746300	True	7104868	True	8818975	True	1339122765	True	95198	True	17468	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR21714352	GSE214231	human	PacBio	0	True	631	True	811031	True	4746270	True	4610193	True	7040289	True	1338859102	True	75108	True	14669	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR21714353	GSE214231	human	PacBio	0	True	2391	True	811537	True	4746470	True	7000068	True	27067623	True	1340201980	True	199694	True	38792	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR21714354	GSE214231	human	PacBio	0	True	286	True	810868	True	4746205	True	1670403	True	3671709	True	1338127176	True	22743	True	8041	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR21714355	GSE214231	human	PacBio	0	True	584	True	810960	True	4746245	True	2529851	True	6632190	True	1338444247	True	44985	True	13756	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR23271781	GSE224045	human	ONT	8756	True	54954	True	843546	True	4783426	True	915992764	True	300965430	True	1385074814	True	2520131	True	679348	True	2494201	True	21046068	True	143809	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR26865982	GSE248118	human	ONT	2331	True	63178	True	845500	True	4785848	True	1169075858	True	290820954	True	1360100632	True	1660243	True	808013	True	6167730	True	26215680	True	262857	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR27237241	GSE250381	mouse	PacBio	17	True	10409	True	818405	True	3020759	True	46586402	True	80564090	True	771442081	True	550079	False	0	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR27237242	GSE250381	mouse	PacBio	88	True	18948	True	822841	True	3024598	True	69130771	True	151330239	True	784326901	True	1074267	False	0	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR27237243	GSE250381	mouse	PacBio	87	True	17218	True	823371	True	3024763	True	78128837	True	140692501	True	784147829	True	1091475	False	0	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR27237244	GSE250381	mouse	PacBio	51	True	16764	True	822064	True	3023437	True	61573548	True	136416349	True	780722232	True	979507	False	0	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR27405402	GSE252344	human	PacBio	45	True	15624	True	816467	True	4749141	True	26238363	True	54914644	True	1340406445	True	205087	True	176797	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR27406895	GSE252416	human	PacBio	0	True	7929	True	812539	True	4746853	True	8515030	True	36286472	True	1338664467	True	106399	True	107601	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR27935476	GSE255520	mouse	ONT	2396	True	21414	True	823294	True	3022467	True	142180844	True	142693277	True	768853498	True	687007	False	0	False	0	False	0	True	313831	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR27935477	GSE255520	mouse	ONT	6398	True	22581	True	826202	True	3026591	True	259167740	True	154430343	True	774055179	True	902239	False	0	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR27935479	GSE255520	mouse	ONT	2895	True	20017	True	824528	True	3024191	True	181176958	True	153481961	True	779920754	True	1052636	False	0	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR30166096	GSE274249	human	ONT	8736	True	61055	True	846869	True	4785310	True	1522210394	True	275326850	True	1360413012	True	1760314	True	1450790	True	6629954	True	29311391	True	395869	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR30166097	GSE274249	human	ONT	8776	True	33683	True	831096	True	4759427	True	261513965	True	180976942	True	1346231736	True	799654	True	609041	True	3282950	True	10961183	True	417559	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR30166098	GSE274249	human	ONT	8730	True	67069	True	849953	True	4791388	True	1900230297	True	291261838	True	1359772273	True	1788618	True	568498	True	5648877	True	29919266	True	657394	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR30166099	GSE274249	human	ONT	8731	True	34012	True	830874	True	4759734	True	250067318	True	176471695	True	1345711522	True	763813	True	255141	True	2254529	True	7828634	True	290771	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR30209150	GSE274527	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR30209151	GSE274527	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR30209152	GSE274527	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR30209153	GSE274527	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR30209154	GSE274527	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR30209155	GSE274527	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR30209156	GSE274527	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR30209158	GSE274527	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR30209159	GSE274527	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR30209160	GSE274527	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR30209162	GSE274527	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR30209163	GSE274527	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR30209164	GSE274527	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR30209165	GSE274527	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR30209166	GSE274527	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR30209167	GSE274527	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR30209169	GSE274527	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR30209170	GSE274527	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR30209171	GSE274527	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR30209172	GSE274527	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR30209173	GSE274527	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR30209174	GSE274527	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR30209175	GSE274527	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR30209176	GSE274527	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR30639543	GSE276974	human	ONT	9352	True	63210	True	853305	True	4799448	True	5902344177	True	319242952	True	1409160005	True	4128606	False	0	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR30639544	GSE276974	human	ONT	9684	True	63511	True	853073	True	4799223	True	5781694760	True	320507116	True	1408283276	True	4042651	False	0	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR30639545	GSE276974	human	ONT	10232	True	63899	True	1708486	True	9602558	True	2697894703	True	328533823	True	1413728143	True	4333818	True	1782138	True	10435939	True	42861876	True	138172	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR30639546	GSE276974	human	ONT	8545	True	66293	True	855220	True	4807255	True	7895688802	True	364456110	True	1433516218	True	5265623	False	0	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR30639548	GSE276974	human	ONT	11620	True	69284	True	854906	True	4807047	True	3254877198	True	361211442	True	1421905222	True	4772714	True	2100043	True	11999698	True	58747631	True	22507	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR30639549	GSE276974	human	ONT	6577	True	60645	True	854772	True	4803691	True	6480023204	True	338975852	True	1424858704	True	4796897	False	0	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR30639550	GSE276974	human	ONT	5705	True	2232	True	812294	True	4748060	True	71764964	True	12252218	True	1340307574	True	147879	False	0	True	112490	True	706743	True	16874	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR30639551	GSE276974	human	ONT	6204	True	26160	True	827842	True	4766898	True	750047106	True	138037276	True	1365685703	True	1622399	True	414719	True	2098195	True	10539333	True	59707	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR30639552	GSE276974	human	ONT	6453	True	62530	True	856273	True	4806793	True	2921109796	True	346562744	True	1428493496	True	5032794	True	1493579	True	9169703	True	39405446	True	977430	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR30639553	GSE276974	human	ONT	6139	True	60150	True	851788	True	4797466	True	1993646728	True	326257617	True	1412726435	True	4185776	True	1434075	True	8827180	True	37152800	True	157117	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR30639554	GSE276974	human	ONT	5916	True	59110	True	852301	True	4799713	True	2192636412	True	340932128	True	1431499407	True	5036188	True	1301127	True	8032670	True	38240630	True	115487	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR30639555	GSE276974	human	ONT	6365	True	61047	True	853503	True	4802335	True	6077565078	True	350214318	True	1434540384	True	5239019	False	0	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR30639556	GSE276974	human	ONT	6130	True	61833	True	854490	True	4804642	True	2658475384	True	352948241	True	1436615845	True	5342368	True	1462430	True	9035742	True	43506321	True	39649	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR30639557	GSE276974	human	ONT	6285	True	60066	True	853860	True	4803125	True	2530317599	True	349876239	True	1438620420	True	5418373	True	1405109	True	8742819	True	41644743	True	63548	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR30639558	GSE276974	human	ONT	12093	True	61484	True	853352	True	4802101	True	5892648282	True	347690407	True	1431257738	True	5101838	False	0	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR31435216	GSE283629	human	ONT	17097	True	53283	True	842993	True	4775239	True	894821049	True	251649299	True	1356432207	True	1475546	True	844411	True	3989888	True	16293268	True	421523	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR31435217	GSE283629	human	ONT	17171	True	32287	True	830603	True	4758095	True	220694116	True	180603306	True	1345928534	True	790640	True	490057	True	2667573	True	8680431	True	306505	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR31435218	GSE283629	human	ONT	20205	True	66385	True	849518	True	4790770	True	1857592892	True	289584704	True	1359849034	True	1786863	True	992006	True	3933261	True	23656266	True	262168	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR31435219	GSE283629	human	ONT	20067	True	32390	True	830026	True	4758500	True	218118267	True	173244648	True	1344966429	True	726912	True	417737	True	2382823	True	7806585	True	247398	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR31632206	GSE283658	human	ONT	3463	True	29988	True	828694	True	4758055	True	206106888	True	170014214	True	1346281704	True	767853	True	469398	True	2258752	True	7014875	True	215043	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR31632207	GSE283658	human	ONT	8656	True	57656	True	844959	True	4782442	True	1458631919	True	252137918	True	1355861568	True	1509202	True	939615	True	3715409	True	16246471	True	363664	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR31632208	GSE283658	human	ONT	8574	True	50810	True	840654	True	4775101	True	953359539	True	223953050	True	1351229608	True	1214068	True	752880	True	3287791	True	13659131	True	342384	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR34899601	GSE283658	human	ONT	8445	True	32733	True	829133	True	4759152	True	426395359	True	194333388	True	1354968535	True	1103338	True	45083	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR32154422	GSE288222	human	ONT	3727	True	42106	True	840282	True	4766341	True	1029199395	True	206056955	True	1363833129	True	1779770	True	707763	True	5034237	True	17354865	True	786028	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR32154423	GSE288222	human	ONT	4165	True	40397	True	839419	True	4765818	True	1012753745	True	199744761	True	1361291732	True	1633822	True	506082	True	3926809	True	14375304	True	330554	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR32154424	GSE288222	human	ONT	4002	True	38750	True	839040	True	4766781	True	758739569	True	225623689	True	1386141556	True	2648710	True	395412	True	3271296	True	13427130	True	161080	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR32154425	GSE288222	human	ONT	7529	True	47101	True	842084	True	4770094	True	901887340	True	234822695	True	1371767505	True	2223608	True	867780	True	5977460	True	20194898	True	909670	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR32154426	GSE288222	human	ONT	5916	True	37952	True	837986	True	4763579	True	665760147	True	204167972	True	1367456835	True	1939267	True	721210	True	4953071	True	15866842	True	855588	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR32154427	GSE288222	human	ONT	5216	True	42024	True	839269	True	4767730	True	759554698	True	210691986	True	1371141727	True	2065392	True	651139	True	4725996	True	17780011	True	725246	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR32154428	GSE288222	human	ONT	9532	True	44196	True	843419	True	4770811	True	1105763186	True	225855731	True	1374463256	True	2336931	True	880346	True	6437479	True	18374842	True	918320	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR32154429	GSE288222	human	ONT	9884	True	43004	True	842532	True	4769472	True	1014212862	True	216816018	True	1371710852	True	2196509	True	776751	True	5859482	True	16404623	True	774776	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR32154430	GSE288222	human	ONT	3905	True	42880	True	845166	True	4771799	True	1317214767	True	251909141	True	1408784272	True	4144447	True	878236	True	6024470	True	19725333	True	435323	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR32154431	GSE288222	human	ONT	5298	True	38134	True	841743	True	4766804	True	1412702969	True	207810022	True	1380765795	True	2672404	True	599514	True	4537815	True	13182801	True	681557	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR32154433	GSE288222	human	ONT	5206	True	9782	True	820878	True	4748937	True	57780261	True	72303669	True	1348277264	True	662377	True	31433	True	816106	True	2314421	True	64843	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR36251361	GSE288222	human	ONT	3612	True	35361	True	839815	True	4765290	True	820320294	True	211097173	True	1389633913	True	2980718	True	716268	True	4919801	True	14730750	True	772144	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR32322922	GSE289428	human	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR32322923	GSE289428	human	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR32322924	GSE289428	human	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR32370261	GSE289790	human	ONT	2030	True	52044	True	842664	True	4780813	True	1089679745	True	261655176	True	1361302058	True	1588929	True	642830	True	2770919	True	12642785	True	237884	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR32370262	GSE289790	human	ONT	1985	True	56929	True	846003	True	4789646	True	1912315634	True	283161356	True	1366322627	True	1863923	True	699267	True	2904437	True	15562490	True	61361	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR32771574	GSE292324	human	PacBio	8104	True	58401	True	849407	True	4791377	True	2422747839	True	361139093	True	1462243766	True	9640564	True	1316624	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR32771575	GSE292324	human	PacBio	8097	True	56077	True	847959	True	4787644	True	2113976130	True	345619618	True	1458216859	True	9448846	True	1128453	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR32771576	GSE292324	human	PacBio	7371	True	60257	True	849048	True	4791215	True	2294101519	True	354217893	True	1456486561	True	9339950	True	1357042	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR32771577	GSE292324	human	PacBio	7367	True	58328	True	848139	True	4788474	True	2104464951	True	342321572	True	1454347960	True	9253356	True	1296329	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR32771578	GSE292324	human	PacBio	5187	True	52957	True	850823	True	4789903	True	2142958558	True	346208292	True	1483103884	True	11178488	True	955146	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR32771579	GSE292324	human	PacBio	7425	True	53164	True	851439	True	4792096	True	2260314143	True	352430029	True	1485284526	True	11265010	True	1027855	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR32771580	GSE292324	human	PacBio	5195	True	50698	True	848460	True	4784817	True	1734274915	True	332247032	True	1477090691	True	10841662	True	904695	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR32771581	GSE292324	human	PacBio	6761	True	50119	True	848332	True	4785224	True	1740248082	True	333550802	True	1477034522	True	10810157	True	938553	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR33259865	GSE295352	mouse	ONT	2754	True	29400	True	838415	True	3047158	True	1182900007	True	215407992	True	803295807	True	1971726	True	777279	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR33259866	GSE295352	mouse	ONT	2647	True	27887	True	833006	True	3038907	True	502338144	True	202534770	True	793634097	True	1531821	True	702873	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR33259867	GSE295352	mouse	ONT	6786	True	11263	True	817156	True	3017949	True	30939267	True	67980878	True	763541777	True	311640	True	112506	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR35432392	GSE295352	mouse	ONT	3552	True	34890	True	841848	True	3054973	True	1543755160	True	239413722	True	806565651	True	2212193	True	1038668	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR35432393	GSE295352	mouse	ONT	3839	True	33981	True	841300	True	3053872	True	1409939486	True	238332062	True	806311246	True	2135330	True	996403	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR35432394	GSE295352	mouse	ONT	3372	True	14349	True	820018	True	3020557	True	46478600	True	83591661	True	765256202	True	412639	True	298273	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR33259246	GSE295353	mouse	ONT	26635	True	35253	True	833852	True	3036457	True	450299796	True	215506951	True	779879427	True	1241157	True	797042	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR33259247	GSE295353	mouse	ONT	45303	True	32369	True	830951	True	3031056	True	347239259	True	198512815	True	772192846	True	985553	False	0	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR33259248	GSE295353	mouse	ONT	1554	True	5155	True	810881	True	3014117	True	6214822	True	31185273	True	759971094	True	94958	False	0	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR35432458	GSE295353	mouse	ONT	6398	True	41857	True	842396	True	3050491	True	1084957680	True	259556623	True	801755253	True	2223326	False	0	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR35432459	GSE295353	mouse	ONT	9513	True	40489	True	838936	True	3044449	True	850056042	True	244855958	True	791421206	True	1778126	True	853589	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR35432460	GSE295353	mouse	ONT	1560	True	4972	True	810158	True	3013947	True	4899371	True	30168848	True	760021938	True	95528	False	0	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR33369385	GSE295932	human	ONT	2911	True	38373	True	831917	True	4765699	True	274515368	True	227399610	True	1358968471	True	1197005	False	0	False	0	False	0	True	189526	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR33369386	GSE295932	human	ONT	5362	True	8157	True	814835	True	4748338	True	16721273	True	60677279	True	1340795910	True	264109	False	0	False	0	False	0	True	57173	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR33369387	GSE295932	human	ONT	5968	True	41459	True	834997	True	4769058	True	498235972	True	233791232	True	1361441418	True	1388885	False	0	False	0	False	0	True	193371	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR33369388	GSE295932	human	ONT	7382	True	9024	True	815357	True	4748718	True	21328302	True	62872460	True	1341118481	True	287577	False	0	False	0	False	0	True	60232	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR34364189	GSE301658	human	ONT	3831	True	39632	True	836669	True	4787060	True	2226758181	True	171745659	True	1366984089	True	1944322	True	734222	True	2252079	True	9509525	True	275279	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR30947478	GSE303762	human	ONT	66691	True	71210	True	852228	True	4794503	True	1760442545	True	324878889	True	1369775399	True	2288709	True	834957	True	3227780	True	25533958	True	90960	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR30947479	GSE303762	human	ONT	5109	True	73714	True	853473	True	4798541	True	1874853187	True	337255479	True	1372328631	True	2355733	True	855751	True	3822613	True	22399172	True	100575	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR35267327	GSE307660	human	ONT	3190	True	51372	True	842427	True	4781098	True	1093654122	True	286880009	True	1399491200	True	3346307	True	693048	True	6400704	True	26667375	True	338380	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR35267328	GSE307660	human	ONT	6900	True	23246	True	825813	True	4753943	True	149574761	True	156002914	True	1353630055	True	1022218	True	36240	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR35267329	GSE307660	human	ONT	4255	True	62291	True	845121	True	4789470	True	1556528702	True	304993690	True	1379029626	True	2557225	True	616776	True	5821993	True	28107758	True	78873	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR35267330	GSE307660	human	ONT	2280	True	50271	True	838408	True	4775414	True	862935453	True	261705126	True	1381160000	True	2438414	True	742355	False	0	False	0	True	173816	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR35267331	GSE307660	human	ONT	2906	True	58368	True	846116	True	4789152	True	1415784750	True	329946560	True	1400915673	True	3376932	True	905196	True	7254373	True	34172835	True	46300	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR35267332	GSE307660	human	ONT	3211	True	58898	True	842360	True	4778372	True	1280569095	True	285503386	True	1369128927	True	1997116	True	873494	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR35267333	GSE307660	human	ONT	3932	True	56495	True	1687158	True	9569044	True	1213532648	True	285660148	True	1391903110	True	3055422	True	670163	True	6497295	True	26431133	True	300514	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR35267334	GSE307660	human	ONT	4885	True	57537	True	843821	True	4779987	True	1250937702	True	256051587	True	1364162303	True	1867732	True	1012577	True	6396222	True	20970549	True	574934	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR35267335	GSE307660	human	ONT	2890	True	38944	True	1676566	True	9540338	True	1050155658	True	209224868	True	1364461962	True	1636343	True	858052	True	4105991	True	13957057	True	447579	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR35267336	GSE307660	human	ONT	1232	True	36397	True	838706	True	4770627	True	873440559	True	228884856	True	1378600935	True	2139198	True	601345	True	4073383	True	15395217	True	514017	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR35267337	GSE307660	human	ONT	1005	True	35659	True	837103	True	4767980	True	646346537	True	219473914	True	1379828006	True	2160084	True	593881	True	4042309	True	15099664	True	468829	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR35267338	GSE307660	human	ONT	5339	True	53089	True	843668	True	4785497	True	1462514631	True	294619492	True	1401788413	True	3383246	True	947715	True	6846312	True	30110088	True	567294	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR35267339	GSE307660	human	ONT	8842	True	47009	True	836205	True	4765817	True	540796592	True	220735556	True	1360716908	True	1571965	True	613418	True	4916789	True	18624782	True	466793	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR35267340	GSE307660	human	ONT	3075	True	45680	True	838656	True	4774981	True	912879641	True	257841569	True	1390934314	True	2840731	True	721576	True	5304196	True	23130178	True	475531	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR35267341	GSE307660	human	ONT	3540	True	48544	True	839398	True	4776781	True	1025293537	True	258629436	True	1388325347	True	2779605	True	713423	True	5666701	True	25528453	True	168775	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR35267342	GSE307660	human	ONT	2481	True	50409	True	842027	True	4781163	True	970892826	True	291937644	True	1395011472	True	3024174	True	709443	True	5852109	True	25824241	True	179864	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR35267343	GSE307660	human	ONT	2287	True	51349	True	843492	True	4782850	True	1094235795	True	296538254	True	1396532527	True	3153500	True	754581	True	5837765	True	25038811	True	614020	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR35267344	GSE307660	human	ONT	4020	True	51869	True	840568	True	4778449	True	855737989	True	282558982	True	1386056237	True	2646630	True	656469	True	5718730	True	24606194	True	332118	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR35267345	GSE307660	human	ONT	2137	True	48968	True	842122	True	4782151	True	1120844974	True	286324712	True	1393038552	True	2918213	True	570613	True	4917326	True	21967787	True	163181	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR35586147	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586148	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586149	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586150	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586151	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586152	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586153	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586154	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586155	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586156	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586157	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586158	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586159	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586160	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586161	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586162	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586163	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586164	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586165	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586166	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586167	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586168	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586169	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586170	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586171	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586172	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586173	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586174	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586175	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586176	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586177	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586178	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586179	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586180	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586181	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586182	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586183	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586184	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586185	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586186	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586187	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586188	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586189	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586190	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586191	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586192	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586193	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586194	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586195	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586197	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586198	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586199	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586200	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586201	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586202	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586203	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586204	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586205	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586206	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586207	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586208	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586209	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586210	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586211	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586212	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586213	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586215	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586217	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586218	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586219	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586220	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586222	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586223	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586225	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586227	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586228	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586229	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586230	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586231	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586232	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586233	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586234	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586235	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586236	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586237	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586238	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586239	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586240	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586241	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586242	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586243	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586244	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586245	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586246	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586247	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586248	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586249	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586250	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586251	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586252	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586253	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586254	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586255	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586256	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586257	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586258	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586259	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586260	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586261	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586263	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586264	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586265	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586266	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586267	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586268	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586269	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586270	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586271	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586272	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586274	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586275	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586276	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586277	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586278	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586279	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586280	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586281	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586282	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586283	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586284	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586285	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586286	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586287	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586288	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586289	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586290	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586291	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586292	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586293	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586294	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586295	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586296	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586297	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586298	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586299	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586300	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586301	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586302	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586303	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586304	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586305	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586306	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586307	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586308	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586309	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586310	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586311	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586312	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586313	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586314	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586315	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586316	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586317	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586318	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586319	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586320	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586321	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586323	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586324	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586325	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586326	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586327	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586328	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586329	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586330	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586331	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586332	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586333	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586334	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586335	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586336	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586337	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586338	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586339	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586340	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586341	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586342	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586343	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586344	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586345	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586346	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586347	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586348	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586349	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586350	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586351	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586352	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586353	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586354	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586355	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586356	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586357	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586358	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586359	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586360	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586361	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586362	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586363	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586364	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586365	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586366	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR35586367	GSE309071	mouse	ONT	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR36480452	GSE314176	mouse	PacBio	14400	True	60686	True	848004	True	3059643	True	2132916069	True	349187267	True	859598842	True	8315655	True	2341330	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR36480453	GSE314176	mouse	PacBio	12730	True	61170	True	849025	True	3061268	True	2319608372	True	356443261	True	862429297	True	8524649	True	2382745	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR36480454	GSE314176	mouse	PacBio	4094	True	8435	True	814542	True	3020626	True	298573827	True	52190044	True	776292955	True	1366314	True	264075	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	SRR3224853	GSE76026	mouse	PacBio	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR3224854	GSE76026	mouse	PacBio	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR3224855	GSE76026	mouse	PacBio	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR3224856	GSE76026	mouse	PacBio	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR3224857	GSE76026	mouse	PacBio	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR3224858	GSE76026	mouse	PacBio	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR3224859	GSE76026	mouse	PacBio	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR3224860	GSE76026	mouse	PacBio	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR3224861	GSE76026	mouse	PacBio	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR3224862	GSE76026	mouse	PacBio	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR3224863	GSE76026	mouse	PacBio	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	SRR3224864	GSE76026	mouse	PacBio	1	False		False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	False	0	membership_only
+scTHREAD_NAR_release_20260803	E6.5	OWN_ASE_scONT	mouse	ONT	8908	True	52660	True	849867	True	3068046	True	7806764207	True	274911483	True	787365899	True	1938642	True	2646972	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	E7.5	OWN_ASE_scONT	mouse	ONT	8125	True	52575	True	851065	True	3069169	True	7820816665	True	279588122	True	789232554	True	2038568	True	4887384	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	E8.5	OWN_ASE_scONT	mouse	ONT	10363	True	51693	True	849908	True	3066479	True	7606774067	True	286043699	True	790399249	True	2030505	True	4417919	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	FJ_E6.5	OWN_ASE_scONT	mouse	ONT	10000	True	52557	True	850753	True	3070295	True	8349202142	True	276764652	True	788758263	True	1963312	True	1888630	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	FJ_E7.5	OWN_ASE_scONT	mouse	ONT	13621	True	56288	True	851487	True	3072456	True	8135896492	True	288253708	True	786773239	True	1982357	True	4708435	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	FJ_E8.5	OWN_ASE_scONT	mouse	ONT	17400	True	57598	True	854901	True	3077613	True	9150822551	True	291627180	True	793412233	True	2416067	True	6747384	False	0	False	0	False	0	isoquant_core_complete
+scTHREAD_NAR_release_20260803	A1	benagen_human_ovary	human	ONT	12650	True	47671	True	837372	True	4767571	True	820561716	True	249316639	True	1358855139	True	1493234	True	762780	True	5074744	True	20484324	True	558236	isoquant_core_complete
+scTHREAD_NAR_release_20260803	Y1	benagen_human_ovary	human	ONT	16271	True	47065	True	837309	True	4767169	True	799699822	True	247745780	True	1359337026	True	1513815	True	905048	True	5779194	True	22455662	True	702212	isoquant_core_complete
+scTHREAD_NAR_release_20260803	benagen_ovary_Young2_ONT	benagen_human_ovary	human	ONT	16576	True	40556	True	835011	True	4762757	True	891268360	True	208333189	True	1360987035	True	1542468	False	0	False	0	False	0	False	0	isoquant_core_complete

@@ -1,0 +1,15 @@
+{
+  "gene": "MACF1",
+  "gene_id": "ENSG00000127603",
+  "gse": "GSE178175",
+  "scope": "descriptive same-study platform comparison; not paired biological replication",
+  "ont_runs": 5,
+  "pacbio_runs": 12,
+  "ont_molecules": 13846.0,
+  "pacbio_molecules": 341.0,
+  "common_transcripts": 21,
+  "spearman_rho": 0.8464884939074638,
+  "spearman_p": 1.3182629904614777e-06,
+  "low_power_warning": "PacBio contributes 341 molecules in this check; this does not establish platform invariance across the database.",
+  "rows": 46
+}

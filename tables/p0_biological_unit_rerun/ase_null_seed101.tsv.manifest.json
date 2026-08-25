@@ -1,0 +1,45 @@
+{
+  "schema_version": "scTHREAD.biological_unit_celltype_permutation.v1",
+  "analysis": "ase",
+  "negative_control": true,
+  "studies": [
+    "GSE276974",
+    "GSE307660"
+  ],
+  "shared_celltypes_only": true,
+  "shared_celltypes": [
+    "B cell",
+    "T cell",
+    "NK",
+    "Monocyte",
+    "Dendritic cell",
+    "Erythroid",
+    "Plasma cell"
+  ],
+  "aggregation_unit": "study_id::donor_or_source_id",
+  "technical_runs_and_repeated_states": "summed_before_testing",
+  "permutations": 200,
+  "seed": 101,
+  "min_depth": 20,
+  "min_donors": 3,
+  "effect_threshold": 0.2,
+  "unit_audit": {
+    "expected_registry_runs": 25,
+    "available_registry_runs": 25,
+    "excluded_input_runs_ignored": [
+      "SRR35267330"
+    ],
+    "missing_registry_runs": [],
+    "analysis_units": 20,
+    "independent_donors": 19
+  },
+  "input_glob": "REDACTED_INTERNAL_PATH",
+  "input_file_count": 68,
+  "registry_path": "REDACTED_INTERNAL_PATH",
+  "registry_sha256": "9d9cb7599c045933956d285c383cd9bf1e81c15bf544be0bef2e4d5bd56adb23",
+  "genes_tested": 6146,
+  "significant_genes": 0,
+  "raw_p_lt_0_05_fraction": 0.04685974617637488,
+  "output_path": "REDACTED_INTERNAL_PATH",
+  "output_sha256": "3283e603255d1bac9958aa7f04a57fc0fe6fabd1395235ddfdeb0f40da19021d"
+}

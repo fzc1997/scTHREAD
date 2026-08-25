@@ -1,0 +1,17 @@
+field	unit	definition	example_or_allowed_values	authoritative_source
+release	string	Immutable release identifier for the manuscript snapshot	scTHREAD_NAR_release_20260803	release/release_manifest.tsv
+srr	string	Source run or library accession	SRR accession or source library identifier	release/release_manifest.tsv
+gse	string	Study/dataset accession	GSE or GSA study identifier	release/release_manifest.tsv
+species	categorical	Species assigned to the run	 human; mouse	release/release_manifest.tsv
+platform	categorical	Long-read sequencing platform	ONT; PacBio	release/release_manifest.tsv
+ena_assay	categorical	Deposited assay/library label	bulk-longread; scONT; scPacBio; scONT-plate	release/release_manifest.tsv
+biology_group	categorical	Curated biological-system grouping	Tissue atlas; Clinical cohort; Cell-line benchmark	release/release_manifest.tsv
+description	text	Source-study/library description	study-specific text	release/release_manifest.tsv
+pipeline	categorical	Upstream route vocabulary retained for provenance	wf-single-cell; EXCLUDE; unclassified; mixed	release/release_manifest.tsv
+isoquant_status	categorical	Whether an IsoQuant output record is present	 done; blank	release/release_manifest.tsv
+isoquant_cells	count	Run-level pipeline-called or one-well count; not the study-level headline cell denominator	integer; may be zero for membership-only/library records	release/release_manifest.tsv
+isoquant_cells_method	categorical	Method used for the run-level count	wf_tagged_barcodes; smartseq2_one_well; min_genes>=200	release/release_manifest.tsv
+isoquant_transcripts	count	Run-level documented transcript count when available	integer; blank means not documented	release/release_manifest.tsv
+annotation_status	categorical	Whether a released record carries a cell-type annotation field	annotated; no_celltype_by_design	release/release_manifest.tsv
+annotation_method	categorical	Source of cell-type labels	author_cell_type; computational_v2; none (cell_line/method)	release/release_manifest.tsv
+metadata_resolution	categorical	Resolution of source metadata retained in the record	study/run/source/cell as available	release/release_manifest.tsv

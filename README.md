@@ -51,14 +51,15 @@ One real output example for every analysis family, with the producing script
 and the manuscript surface it feeds, is indexed in
 [`evidence_layers/examples/README.md`](evidence_layers/examples/README.md).
 
-## Releases and citation
+## Associated manuscript
 
-Each reviewed snapshot of this package is an annotated tag
-(`v1.6-reproducibility`, `v1.7-reproducibility`, `v1.10-reproducibility`, …)
-on the `master`/`revision-v1.6-reproducibility` heads; the manuscript cites
-the exact commit of the snapshot it used. The frozen data tables are archived
-on Zenodo under concept DOI 10.5281/zenodo.21826301 (resolving to the latest
-archived version).
+This package accompanies the manuscript *"scTHREAD: a cell-resolved
+long-read transcriptome database with linked isoform, poly(A), junction and
+allelic evidence"* by Zhi-Can Fu, Yelian Yan, Chunchun Wu, Ran Song, Xiaobo
+Wang, Jianfan Wei, Zhuangzhuang Lu, Tietuo Tao, Peng Lu, Wentao Cui, Yanqiang
+Li, Keliang Wu, Yong Chen, Tao Huang and Shenli Yuan (under review). The
+frozen data tables are archived on Zenodo under concept DOI
+10.5281/zenodo.21826301.
 
 ## Frozen release scope
 

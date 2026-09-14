@@ -2,14 +2,18 @@
 
 This clean staging tree is based on the public `fzc1997/scTHREAD` data-only
 repository and adds the reproducibility and figure entry points required by the
-NAR revision. It is intended for a reviewed GitHub branch/tag and subsequent
-Zenodo version archive; it has not yet been pushed.
+NAR revision. It is published as the reviewed GitHub branch/tag
+`v1.6-reproducibility` (and later versions) for Zenodo version archiving.
 
 ## Included scope
 
 - `reproducibility/`: DIU, APA, ASE, junction and biological-unit permutation
   reducers/validators, real examples, the CD45 CB/UB sensitivity analysis and
   environment/manifest definitions;
+- `reproducibility/processing_routes/`: entry scripts for the PacBio
+  barcode-resolved route (adapter/UMI extraction with whitelist CB correction,
+  SAM tagging) and the sample/library-file-grouped routes (plate Smart-seq2,
+  Fluidigm C1), with per-route documentation and patch notes;
 - `results/paper1/figdata/` and `results/paper1/f2_grammar/figdata/`: frozen
   source tables used by the included NAR figure renderers;
 - `figures/scripts/`: path-configurable NAR Figure 1–3 and graphical-abstract
@@ -18,8 +22,9 @@ Zenodo version archive; it has not yet been pushed.
 - frozen release tables, P0 observed/null artifacts, CD45 UMI and representative
   platform-sensitivity summaries.
 
-The staging tree contains no internal `/gpfs`, `/Users` or `/home` paths in its
-text/source files. Raw reads and private reference bundles are not included.
+Internal machine paths appear only as overridable environment-variable defaults
+(`reproducibility/ENVIRONMENT.md`); no bare hard-coded internal paths remain.
+Raw reads and private reference bundles are not included.
 Run-local novel models and cross-platform checks retain their stated scope and
 do not imply cross-run equivalence or platform invariance.
 

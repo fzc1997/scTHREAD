@@ -8,6 +8,7 @@ reducer or a validation workflow:
 | Variable | Required content |
 |---|---|
 | `SCTHREAD_SCLONG_ROOT` | Local root containing the source registry, annotations and IsoQuant inputs |
+| `SCTHREAD_EXTSSD_ROOT` | Workstation root hosting the IsoQuant tool env, GRCm39 reference and Fluidigm C1 inputs used by `reproducibility/processing_routes/run_fluidigm_c1_mouse.sh` |
 | `SCTHREAD_REFERENCE_ROOT` | Root containing `10x_ref/` and `endpoint_atlas/` reference resources |
 | `SCTHREAD_PROJECT_ROOT` | Working root for generated results and validation tables |
 | `SCTHREAD_RESULTS_ROOT` | Results root used by feature/reducer scripts |

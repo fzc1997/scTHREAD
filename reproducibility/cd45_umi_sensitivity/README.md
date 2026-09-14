@@ -1,9 +1,9 @@
 # CD45 read-vs-UMI sensitivity
 
-This directory contains the code and summary outputs for the Reviewer 2 CD45
+This directory contains the code and summary outputs for the CD45 read-versus-UMI
 sensitivity analysis. The recount used the indexed tagged BAMs from the two
 source studies and their run/barcode/cell-type annotation tables; raw BAMs are
-not redistributed in this public candidate.
+not redistributed.
 
 ## Contract
 

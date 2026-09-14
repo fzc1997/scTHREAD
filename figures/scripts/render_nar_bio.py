@@ -848,7 +848,7 @@ def render_fig2(stem: str = "NAR_Fig2", observed_suffix: str = ""):
     fig.text(
         0.09, 0.028,
         # the permutation inventory is panel f; panel e is the recovery curve
-        "Panels a–d: frozen Paper1 evidence tables. Panel f: corrected source-level "
+        "Panels a–d: frozen analysis evidence tables. Panel f: corrected source-level "
         "restricted permutations across seven shared marrow lineages; FDR<0.05 and effect≥0.20.",
         fontsize=5.2, color=SLATE, ha="left",
     )

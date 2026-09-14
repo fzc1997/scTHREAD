@@ -27,13 +27,13 @@ OUT = os.environ.get("SCTHREAD_JUNCTION_OUTPUT", "results/paper1/f2_grammar/agg_
 os.makedirs(OUT, exist_ok=True)
 ANN_PAT = annotation_pattern(RUN, REGISTRY_ROW)
 
-# DuckDB spill dir. MUST be a REAL DISK: HPC /tmp is XFS (ok default), but Tower /tmp is tmpfs=RAM ->
-# set REDUCER_TMP=/mnt/extssd2 on Towers or spilling silently eats RAM and fills up ("No space left").
+# DuckDB spill dir. MUST be a REAL DISK: if /tmp is RAM-backed (tmpfs) on your machine,
+# set REDUCER_TMP to a real disk path or spilling silently eats RAM and fills up ("No space left").
 tmp = f"{os.environ.get('REDUCER_TMP', '/tmp')}/f2jct_{RUN}_{os.getpid()}"
 os.makedirs(tmp, exist_ok=True)
 import duckdb
 con = duckdb.connect()
-_MEM = os.environ.get("F2_DUCKDB_MEM", "24GB")  # Tower has huge RAM -> raise to spill less
+_MEM = os.environ.get("F2_DUCKDB_MEM", "24GB")  # raise on RAM-rich machines to spill less
 con.execute(f"PRAGMA threads=4; PRAGMA temp_directory='{tmp}'; PRAGMA memory_limit='{_MEM}'")
 # per-run label table (collision-safe: filter to this run)
 con.execute(f"""
@@ -67,7 +67,7 @@ df["run"] = RUN; df["gse"] = GSE
 if df.empty:
     raise SystemExit(f"NO_JUNCTION_ROWS {RUN} {GSE}")
 target = Path(OUT) / f"{RUN}.jct_ct.parquet"
-# per-writer partial name so concurrent double-runners (Tower1/Tower2/HPC) never corrupt each other's
+# per-writer partial name so concurrent double-runners on multiple hosts never corrupt each other's
 # partial; both atomically replace the same target -> whoever finishes writes it (identical content).
 temporary = target.with_suffix(f".parquet.{os.getpid()}.partial")
 df.to_parquet(temporary, index=False)

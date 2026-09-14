@@ -2,7 +2,7 @@
 """Biological-unit-aware DIU, APA, or ASE cell-type permutation analysis.
 
 The publication analysis unit is ``study_id::donor_or_source_id`` from the
-validated scLong analysis-unit registry. Technical runs and repeated states
+validated source-database analysis-unit registry. Technical runs and repeated states
 from the same source are summed before testing. Cell-type labels are permuted
 within source, and only cell types observed in at least ``min_donors`` sources
 are retained for a gene.

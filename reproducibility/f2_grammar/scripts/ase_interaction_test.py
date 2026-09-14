@@ -5,7 +5,7 @@ ASE #4 — allele × cell_type interaction test (donor-aware), the statistical c
 For each gene with allelic support in >=2 cell types across >=3 donors: fit a binomial GLM on the
 haplotype ratio  cbind(hapA, hapB) ~ C(cell_type) + C(donor)  and LRT the cell_type term against the
 donor-only null. A significant cell_type term = the allelic ratio differs across cell types beyond
-donor variation = cell-type-specific cis-ASE (Pro's allele×cell_type interaction, with donor as a
+donor variation = cell-type-specific cis-ASE (the allele x cell-type interaction, with donor as a
 fixed effect and cell_type main effect on the ratio being the interaction of interest).
 
 Guards (the Beta-binomial over-detection lesson): q<0.05 AND effect-size gate (max pairwise

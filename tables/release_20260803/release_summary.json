@@ -1,7 +1,7 @@
 {
   "release": "scTHREAD_NAR_release_20260803",
   "scope": "all single-cell long-read datasets, any source archive",
-  "authoritative_table": "Seq_Database/scLong/metadata/annotation/authoritative_cellcount_clean_20260802.tsv",
+  "authoritative_table": "authoritative_cellcount_clean_20260802.tsv",
   "authoritative_sha256": "2954c72113bee39bac570b1753b74b1ff15c63f044031624219386d03838c7ab",
   "n_studies": 34,
   "n_runs": 453,

@@ -1,4 +1,4 @@
-"""Shared style for scTHREAD NAR Database Issue figures (not GB Paper1)."""
+"""Shared style for scTHREAD manuscript figures."""
 from __future__ import annotations
 
 import os

@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """
-F2 target-junction definition + response matrix (Pro 4211 spec, the predictive-grammar substrate).
+F2 target-junction definition + response matrix (the predictive-grammar substrate).
 
 From the per-run junction x cell_type reduction (agg_jct/<SRR>.jct_ct.parquet), define high-confidence
 RECURRENT NOVEL junctions and their donor(5')-anchored competition PSI response per (donor, cell_type).
 
-Target junction criteria (Pro):
+Target junction criteria:
   - NOVEL: never observed in an FSM read anywhere (sum n_fsm == 0 across all runs)
   - recurrent: total molecules >= MIN_MOL (default 5) AND seen in >= MIN_STUDIES (default 2) studies
   - competing splice choice: its 5' donor site (chrom,strand,a) has >= 2 distinct acceptors b

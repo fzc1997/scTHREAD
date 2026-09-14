@@ -2,7 +2,7 @@
 """
 F2 feature assembly — per target junction: cis splice-site strength + eCLIP RBP binding proximity.
 
-The mechanistic grammar features (Pro 4211): a junction's usage should depend on (a) how strong its
+The mechanistic grammar features: a junction's usage should depend on (a) how strong its
 splice sites are (cis), and (b) which RBPs bind near it (cis binding) INTERACTED with those RBPs'
 cell-type expression (trans). This script builds the junction-level (cell-type-invariant) part:
   - pwm_donor  : 5'SS PWM log-odds score at donor site a

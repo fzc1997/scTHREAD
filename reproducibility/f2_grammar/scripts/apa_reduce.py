@@ -31,13 +31,13 @@ OUT = os.environ.get("SCTHREAD_APA_OUTPUT", "results/paper1/f2_grammar/agg_apa")
 os.makedirs(OUT, exist_ok=True)
 ANN_PAT = annotation_pattern(RUN, REGISTRY_ROW)
 
-# DuckDB spill dir. MUST be a REAL DISK: HPC /tmp is XFS (ok default), but Tower /tmp is tmpfs=RAM ->
-# set REDUCER_TMP=/mnt/extssd2 on Towers or spilling silently eats RAM and fills up ("No space left").
+# DuckDB spill dir. MUST be a REAL DISK: if /tmp is RAM-backed (tmpfs) on your machine,
+# set REDUCER_TMP to a real disk path or spilling silently eats RAM and fills up ("No space left").
 tmp = f"{os.environ.get('REDUCER_TMP', '/tmp')}/apa_{RUN}_{os.getpid()}"
 os.makedirs(tmp, exist_ok=True)
 import duckdb
 con = duckdb.connect()
-_MEM = os.environ.get("APA_DUCKDB_MEM", "40GB")  # Tower has huge RAM -> raise to spill less
+_MEM = os.environ.get("APA_DUCKDB_MEM", "40GB")  # raise on RAM-rich machines to spill less
 con.execute(f"PRAGMA threads=6; PRAGMA temp_directory='{tmp}'; PRAGMA memory_limit='{_MEM}'")
 # PolyASite tables differ in width between species. Only BED columns 1–6 are
 # required; chromosome names are normalized without changing coordinates.
@@ -91,7 +91,7 @@ if not LIMIT:
     if not df.gene_id.str.startswith(str(RESOURCE["gene_prefix"])).all():
         raise SystemExit(f"GENE_ASSEMBLY_MISMATCH {RUN} {SPECIES}")
     target = Path(OUT) / f"{RUN}.apa.parquet"
-    # per-writer partial name so concurrent HPC+Tower double-runners never corrupt each other's
+    # per-writer partial name so concurrent double-runners never corrupt each other's
     # partial; both atomically replace the same target -> whoever finishes writes it (identical content).
     temporary = target.with_suffix(f".parquet.{os.getpid()}.partial")
     df.to_parquet(temporary, index=False)

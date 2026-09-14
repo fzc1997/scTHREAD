@@ -13,4 +13,5 @@ and the frozen release manifest is checksum-pinned by the Figure 2 renderer.
 | `portal_screenshots/` | SF3 walkthrough tiles and the Figure 3 portal views (captured 2026-08-05 / 2026-08-07 against the public site) |
 | `sf4_malat1/` | SF4 cross-species worked example (MALAT1 isoform-pair composition, embedding/cell-type tables, UMAP coordinates, and the cohort annotation tables of the published mouse gastrulation study) |
 | `sf5_discovery/` | SF5 nine-locus discovery screen (effects table and exact-test JSON) |
+| `fig4_application/` | The junction-usage application figure: donor effects, cohort medians, cell-type profiles, state sensitivity, breadth boundary and the discovery-screen sources |
 | `platform_sensitivity/` | Platform-sensitivity summaries for the retained MACF1 study (reference only) |

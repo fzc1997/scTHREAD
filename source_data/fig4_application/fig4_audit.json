@@ -1,0 +1,24 @@
+{
+  "claim_boundary": "Exact-junction usage, descriptive state sensitivity and locus-specific breadth are shown; no full-length short-read linkage, shared regulation or mechanism is claimed.",
+  "core_genes": [
+    "CCND3",
+    "CUTA",
+    "PSMB8"
+  ],
+  "figure_size_mm": [
+    183,
+    185
+  ],
+  "panel_ids": [
+    "a",
+    "b",
+    "c",
+    "d",
+    "e",
+    "f",
+    "g",
+    "h",
+    "i"
+  ],
+  "schema_version": "scTHREAD-rich-biology-figure-v0.2"
+}

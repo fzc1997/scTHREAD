@@ -1,0 +1,46 @@
+{
+  "captured_at_utc": "2026-07-26T13:24:15.980720+00:00",
+  "source_url": "http://10.168.3.4:4173/browse?species=human&query=PTPRC",
+  "gene": "PTPRC",
+  "species": "human",
+  "viewport_css_px": [
+    1500,
+    1200
+  ],
+  "device_scale_factor": 2.0,
+  "max_crop_height_css_px": 900.0,
+  "only_view": "cellmap",
+  "cellmap_right_view": "isoform",
+  "cellmap_isoform": "ENST00000367364",
+  "browser_location": "PTPRC · ENSG00000081237 · chr1:198,638,457-198,757,476 · 317 junctions",
+  "evidence_text": "Database-wide evidence\nAll available gene and isoform evidence\nCell-type differential\nIsoform usage (DIU) · effect 0.552 · q 0.00493\nCell-type differential\nPoly(A) usage (APA) · effect 0.201 · q 0.00348\nNot significant\nASE cell-type interaction · effect 0.170 · q 1.00\n8,994 junctions\n2,341,574 molecules across available samples",
+  "crop_note": "Each crop begins at the six-tab strip and includes the active view up to a common maximum height. The gene sidebar was hidden only to use the full publication width; no data were altered.",
+  "views": [
+    {
+      "view": "cellmap",
+      "active_button": "Cell map",
+      "junction_rows": null,
+      "track_rows": 0,
+      "text_excerpt": "Right view\nGene expression\nIsoform expression\nAllelic balance (ASE)\nIsoform\nENST00000367364 · 57,185 molecules\nENST00000697630 · 25,697 molecules\nENST00000484135 · 11,651 molecules\nENST00000697635 · 8,021 molecules\nENST00000530727 · 5,870 molecules\nENST00000442510 · 5,725 molecules\nENST00000367367 · 4,528 molecules\nENST00000348564 · 3,492 molecules\nENST00000529828 · 2,391 molecules\nENST00000367379 · 2,391 molecules\nENST00000462363 · 1,193 molecules\nENST00000413409 · 1,067 molecules\nENST00000418674 · 379 molecules\nENST00000643513 · 330 molecules\nENST00000697634 · 259 molecules\nENST00000391970 · 212 molecules\nENST00000697632 · 158 molecules\nENST00000697633 · 134 molecules\nENST00000491302 · 121 molecules\nENST00000646230 · 51 molecules\nSource\nAll samples\nPostnatal brain (2021 Nat Commun) · 2 runs\nAdult frontal cortex (2022 Nat Biotechnol) · 21 runs\nscNanoGPS cell lines · 6 runs\nscATAC-seq benchmark · 9 runs\nNeuronal differentiation (2024 Nat Commun) · 12 runs\nCortical neuron differentiation · 4 runs\nCCUS bone marrow · 16 runs\niNeuron differentiation · 4 runs\nFibroblast-to-HSC reprogramming · 4 runs\nAdult human heart · 12 runs\nFOXA2 prostate cancer cells · 2 runs\nPediatric glioma · 1 runs\nLongBench cell lines · 26 runs\nMultiple myeloma bone marrow · 19 runs\nCell-type annotation\nHarmonized cell type\nAstrocyte\nB cell\nCardiomyocyte\nCell line / method sample\nCycling\nCycling progenitor\nDendritic cell\nEndocardial\nEndothelial\nErythroid\nExcitatory neuron\nFibroblast\nHipp_ChorPlex\nHipp_Ependymal\nHipp_GranuleNB\nImmature neuron\nInhibitory neuron\nLymphatic\nLymphoid\nMES-like\nMature neuron\nMonocyte\nMonocyte / myeloid\nNK\nNPC-like\nNeural progenitor\nNeuronal\nOPC\nOPC-like\nOligodendrocyte\nPericyte\nPlasma cell\nPluripotent\nProgenitor\nSmooth muscle\nT cell\nUnassigned\nVascular\nENST00000367364 isoform expression\nENST00000367364 expression\n0 → 5 long-read molecules. Near-white indicates zero or low detection.\n\nscTHREAD cell-resolved portal atlas UMAP · 71,913 sampled cells · run-stratified sampling, library normalization, log1p, 2500 HVGs, PCA, Harmony by run, 20-NN graph, UMAP. UMAP is exploratory and does not imply trajectory.",
+      "file": "02_cell_map.png",
+      "png_bytes": 1032352,
+      "cellmap_config": {
+        "right_view": "isoform",
+        "mode_selection": {
+          "control_index": 0,
+          "control_id": "umapSignal",
+          "selected_value": "isoform",
+          "selected_text": "Isoform expression"
+        },
+        "isoform_selection": {
+          "control_index": 1,
+          "control_id": "umapIsoform",
+          "selected_value": "ENST00000367364",
+          "selected_text": "ENST00000367364 · 57,185 molecules"
+        },
+        "load_state": "rendered:human:ENSG00000081237:3",
+        "legend_text": "ENST00000367364 expression\n0 → 5 long-read molecules. Near-white indicates zero or low detection."
+      }
+    }
+  ]
+}

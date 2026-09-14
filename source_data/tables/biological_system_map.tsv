@@ -1,0 +1,35 @@
+gse	biological_system	system_display	portal_label	cells
+GSA_mouse_testis_11week	Endocrine	Endocrine	Mouse · Testis · 11-week adult	39585
+GSE114157	Neural/sensory	Neural and sensory	Mouse · Outer hair cells (2019 Cell Reports)	132
+GSE130708	Neural/sensory	Neural and sensory	Mouse · Embryonic brain · E18 (2020 Nature Communications)	1121
+GSE158450	Neural/sensory	Neural and sensory	Mouse · Postnatal brain · hippocampus and prefrontal cortex (2021 Nature Communications)	11478
+GSE178175	Neural/sensory	Neural and sensory	Human · Frontal cortex · single-nucleus isoform sequencing (2022 Nature Biotechnology)	121244
+GSE185554	Development/embryo	Development and embryo	Mouse · AGM · hematopoietic stem cell emergence (2022 Science Advances)	42
+GSE212945	Cancer	Cancer	Human · Tumors and cancer cell lines · scNanoGPS (2023 Nature Communications)	30040
+GSE214231	Blood/immune	Blood and immune	Human · CAR T cells · signaling-domain shuffling (2022 Nature Communications)	31587
+GSE224045	Cancer	Cancer	Human · Lung cancer cell-line mixture · 20% mixture (2023 NAR Genomics and Bioinformatics)	1265
+GSE248118	Cancer	Cancer	Human · Ovarian cancer cell-line mixture · Isosceles benchmark (2024 Nature Communications)	2331
+GSE250381	Development/embryo	Development and embryo	Mouse · Preimplantation embryos · isoform switching (2024 PLOS Biology)	243
+GSE252344	Blood/immune	Blood and immune	Human · Lymph node B cells · CaClust K7B (2024 Genome Biology)	3699
+GSE252416	Blood/immune	Blood and immune	Human · Lymph node B cells · CaClust K6B (2024 Genome Biology)	8621
+GSE255520	Neural/sensory	Neural and sensory	Mouse · Retina · short- and long-read integration (2025 Genome Research)	11689
+GSE274249	Neural/sensory	Neural and sensory	Human · Cortical neurons · iPSC differentiation (GSE274249)	34973
+GSE274527	Development/embryo	Development and embryo	Mouse · Embryonic endothelium · hematopoietic transition (2025 Nature Cardiovascular Research)	27
+GSE276974	Blood/immune	Blood and immune	Human · Bone marrow · CCUS and healthy donors (GSE276974)	117300
+GSE283629	Neural/sensory	Neural and sensory	Human · iNeurons · Neurabin-I perturbation (GSE283629)	74540
+GSE283658	Development/embryo	Development and embryo	Human · Fibroblasts · hematopoietic reprogramming (GSE283658)	29138
+GSE288222	Heart/vascular	Heart	Human · Heart · heart failure (2025 Circulation)	30682
+GSE289428	Cancer	Cancer	Human · HeLa cells · TLDR-seq (2025 Nucleic Acids Research)	3
+GSE289790	Cancer	Cancer	Human · Prostate cancer cells · FOXA2 perturbation (2025 Nature Genetics)	4015
+GSE292324	Blood/immune	Blood and immune	Human · Acute myeloid leukemia · splicing regulation (2025 Science Translational Medicine)	55507
+GSE295352	Blood/immune	Blood and immune	Mouse · Spleen · 3′/5′ protocol comparison (2026 Diabetes)	22950
+GSE295353	Endocrine	Endocrine	Mouse · Pancreatic islets · insulin-depleted protocols (2026 Diabetes)	5907
+GSE295932	Cancer	Cancer	Human · Jurkat cells · CRISPR perturbation (2025 Nature Communications)	21623
+GSE301658	Cancer	Cancer	Human · Pediatric glioma · NRCAM microexon skipping (2025 Cell Reports)	3356
+GSE303762	Cancer	Cancer	Human · Cancer cell lines · cross-platform LongBench (GSE303762)	71800
+GSE307660	Blood/immune	Blood and immune	Human · Bone marrow · multiple myeloma and belantamab response (GSE307660)	68407
+GSE309071	Development/embryo	Development and embryo	Mouse · AGM and yolk sac · hematopoietic transitions (2025 Nature Cardiovascular Research)	212
+GSE314176	Neural/sensory	Neural and sensory	Mouse · Hippocampus · RPS2-STAMP translation profiling (2026 Nature)	19610
+GSE76026	Neural/sensory	Neural and sensory	Mouse · Oligodendrocyte lineage · maturation (2017 BMC Genomics)	6
+OWN_ASE_scONT	Development/embryo	Development and embryo	Mouse · Embryo · E6.5–E8.5 reciprocal crosses	68417
+benagen_human_ovary	Endocrine	Endocrine	Human · Ovary · age groups	31839

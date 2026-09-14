@@ -1,0 +1,52 @@
+{
+  "portal_embedding": {
+    "cells": 55729,
+    "runs": 6,
+    "cell_types": 36,
+    "crosses": [
+      "Forward",
+      "Reciprocal"
+    ],
+    "stages": [
+      "E6.5",
+      "E7.5",
+      "E8.5"
+    ],
+    "cells_by_cross_stage": {
+      "Forward:E6.5": 7340,
+      "Forward:E7.5": 6792,
+      "Forward:E8.5": 8339,
+      "Reciprocal:E6.5": 8286,
+      "Reciprocal:E7.5": 10981,
+      "Reciprocal:E8.5": 13991
+    }
+  },
+  "audit_json_agrees": {
+    "cells": true,
+    "runs": true,
+    "cell_types": true
+  },
+  "malat1": {
+    "gene_id": "ENSMUSG00000092341",
+    "cells_with_signal": 30931,
+    "displayed_isoforms": {
+      "ENSMUST00000245150": {
+        "cells": 12433,
+        "molecules": 16979.0
+      },
+      "ENSMUST00000172812": {
+        "cells": 9810,
+        "molecules": 12920.0
+      }
+    },
+    "eligible_cell_types_min100_molecules": 36,
+    "max_usage_difference": 0.21256038647342995,
+    "most_iso1_biased_cell_type": "Anterior PS",
+    "most_iso2_biased_cell_type": "Neural crest"
+  },
+  "inputs": {
+    "/gpfs/home/fuzc/project/scTHREAD/web/data/mouse_scont_umap_points.parquet": "4985c15e1d442a99b9436fc87a196cdff2c9d08293fcf1c92fe86859121226e2",
+    "/gpfs/home/fuzc/project/scTHREAD/web/data/mouse_scont_umap_isoform_expression.parquet": "9fbe326390a0e5c02f95f8c60b988aef8ef73da738a585f22c9338cf37a6104c",
+    "/gpfs/home/fuzc/project/scTHREAD/web/data/mouse_scont_umap_audit.json": "1e929bb7afdef5b0f872d766013b69a98b1907de3c3c263b8186e8f158fd0170"
+  }
+}

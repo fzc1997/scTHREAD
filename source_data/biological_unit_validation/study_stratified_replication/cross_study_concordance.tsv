@@ -1,0 +1,6 @@
+analysis	gene	study_left	study_right	n_common_celltypes	common_celltypes	n_union_features	n_signed_contrasts	contrast_threshold	n_informative_contrasts	pearson_signed_contrasts	spearman_signed_contrasts	cosine_signed_contrasts	sign_agreement_fraction
+apa	MS4A1	GSE276974	GSE307660	4	B cell;Monocyte;Plasma cell;T cell	46	276	0.02	46	0.37554336128146615	0.06779554845985244	0.3755433612814662	0.6304347826086957
+apa	PTPRC	GSE276974	GSE307660	7	B cell;Dendritic cell;Erythroid;Monocyte;NK;Plasma cell;T cell	51	1071	0.02	129	0.15613432323020734	0.09405362710530275	0.15613432323020737	0.5813953488372093
+ase	PTPRC	GSE276974	GSE307660	0		1	0	0.02	0				
+diu	MS4A1	GSE276974	GSE307660	0		10	0	0.02	0				
+diu	PTPRC	GSE276974	GSE307660	6	B cell;Dendritic cell;Erythroid;Monocyte;NK;T cell	23	345	0.02	125	0.2694156244542599	0.2946234168153901	0.2694156244542599	0.616

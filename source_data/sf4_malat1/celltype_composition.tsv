@@ -1,0 +1,37 @@
+cell_type	cells	E6_5	E7_5	E8_5	forward_cells	reciprocal_cells
+ExE ectoderm	9824	5642.0	2198.0	1984.0	2305.0	7519.0
+ExE endoderm	8435	2908.0	2455.0	3072.0	2956.0	5479.0
+Epiblast	6650	4621.0	1956.0	73.0	2828.0	3822.0
+Mesenchyme	3239	3.0	1230.0	2006.0	1457.0	1782.0
+Rostral neurectoderm	2268	14.0	1838.0	416.0	1290.0	978.0
+FB MB HB	1926	0.0	0.0	1926.0	1175.0	751.0
+Surface ectoderm	1910	9.0	458.0	1443.0	1014.0	896.0
+Nascent mesoderm	1655	187.0	1411.0	57.0	361.0	1294.0
+Parietal endoderm	1516	709.0	488.0	319.0	347.0	1169.0
+Primitive Streak	1354	685.0	657.0	12.0	629.0	725.0
+Paraxial mesoderm	1246	0.0	237.0	1009.0	779.0	467.0
+Visceral endoderm	1217	748.0	379.0	90.0	421.0	796.0
+Erythroid3	1070	0.0	0.0	1070.0	832.0	238.0
+Pharyngeal mesoderm	1017	0.0	198.0	819.0	568.0	449.0
+Gut	999	2.0	294.0	703.0	472.0	527.0
+Intermediate mesoderm	960	0.0	370.0	590.0	587.0	373.0
+HE progenitor	923	0.0	469.0	454.0	314.0	609.0
+ExE mesoderm	923	0.0	228.0	695.0	487.0	436.0
+NMP	863	0.0	0.0	863.0	453.0	410.0
+Spinal cord	785	0.0	40.0	745.0	425.0	360.0
+Mixed mesoderm	783	6.0	742.0	35.0	177.0	606.0
+Somitic mesoderm	779	0.0	227.0	552.0	484.0	295.0
+Caudal epiblast	690	0.0	578.0	112.0	449.0	241.0
+Endothelium	656	0.0	1.0	655.0	341.0	315.0
+Definitive endoderm	625	33.0	507.0	85.0	115.0	510.0
+Erythroid1	553	1.0	12.0	540.0	45.0	508.0
+Allantois	479	0.0	15.0	464.0	132.0	347.0
+Erythroid2	474	0.0	0.0	474.0	16.0	458.0
+Blood progenitor 2	452	0.0	246.0	206.0	222.0	230.0
+Cardiomyocytes	409	0.0	0.0	409.0	216.0	193.0
+Neural crest	274	0.0	0.0	274.0	242.0	32.0
+Blood progenitor 1	199	0.0	120.0	79.0	70.0	129.0
+Anterior PS	164	47.0	115.0	2.0	47.0	117.0
+Caudal mesoderm	145	0.0	105.0	40.0	109.0	36.0
+PGC	137	11.0	104.0	22.0	52.0	85.0
+Notochord	130	0.0	95.0	35.0	54.0	76.0

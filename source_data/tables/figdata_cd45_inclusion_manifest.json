@@ -1,0 +1,91 @@
+{
+  "thresholds": {
+    "min_stratum_reads": 100,
+    "min_cell_type_reads": 1000,
+    "min_cell_type_runs": 3,
+    "applied_to": "strata surviving min_stratum_reads, in every study"
+  },
+  "cell_type_aliases": {
+    "Monocyte / myeloid": "Monocyte",
+    "NK cell": "NK",
+    "Malignant plasma cell": "Plasma cell"
+  },
+  "studies": [
+    "GSE276974",
+    "GSE307660"
+  ],
+  "selected_cell_types": [
+    "B cell",
+    "NK",
+    "Monocyte",
+    "T cell"
+  ],
+  "strata": 103,
+  "informative_reads": 296997,
+  "audit": [
+    {
+      "cell_type": "B cell",
+      "selected": true,
+      "GSE276974_reads": 21963,
+      "GSE276974_runs": 14,
+      "GSE307660_reads": 21182,
+      "GSE307660_runs": 11
+    },
+    {
+      "cell_type": "Dendritic cell",
+      "selected": false,
+      "GSE276974_reads": 120,
+      "GSE276974_runs": 1,
+      "GSE307660_reads": 2393,
+      "GSE307660_runs": 6
+    },
+    {
+      "cell_type": "Erythroid",
+      "selected": false,
+      "GSE276974_reads": 4009,
+      "GSE276974_runs": 6,
+      "GSE307660_reads": 197,
+      "GSE307660_runs": 1
+    },
+    {
+      "cell_type": "Monocyte",
+      "selected": true,
+      "GSE276974_reads": 5149,
+      "GSE276974_runs": 13,
+      "GSE307660_reads": 86661,
+      "GSE307660_runs": 14
+    },
+    {
+      "cell_type": "NK",
+      "selected": true,
+      "GSE276974_reads": 55027,
+      "GSE276974_runs": 13,
+      "GSE307660_reads": 2802,
+      "GSE307660_runs": 8
+    },
+    {
+      "cell_type": "Plasma cell",
+      "selected": false,
+      "GSE276974_reads": 2504,
+      "GSE276974_runs": 1,
+      "GSE307660_reads": 364,
+      "GSE307660_runs": 2
+    },
+    {
+      "cell_type": "Progenitor",
+      "selected": false,
+      "GSE276974_reads": 3465,
+      "GSE276974_runs": 12,
+      "GSE307660_reads": 0,
+      "GSE307660_runs": 0
+    },
+    {
+      "cell_type": "T cell",
+      "selected": true,
+      "GSE276974_reads": 70603,
+      "GSE276974_runs": 13,
+      "GSE307660_reads": 33610,
+      "GSE307660_runs": 17
+    }
+  ]
+}

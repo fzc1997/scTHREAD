@@ -1,0 +1,10 @@
+system	system_display	n_gse	n_runs	isoquant_cells
+Brain	Brain	8	51	319443
+Blood/marrow	Blood/marrow	4	44	313014
+Other	Other	8	28	151430
+Reproductive	Reproductive	3	6	87413
+Embryo	Embryo	2	10	68660
+Heart	Heart	1	12	67992
+Differentiation	Differentiation	2	216	29350
+Cancer	Cancer	2	3	7846
+Smart-seq2	Smart-seq2	4	83	83

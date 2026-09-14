@@ -1,0 +1,93 @@
+{
+  "schema_version": "scTHREAD.study_stratified_replication.v1",
+  "studies": [
+    "GSE276974",
+    "GSE307660"
+  ],
+  "targets": [
+    "PTPRC",
+    "MS4A1"
+  ],
+  "analyses": [
+    "diu",
+    "apa",
+    "ase"
+  ],
+  "aggregation_unit": "study_id::donor_or_source_id",
+  "targeted_permutations": 9999,
+  "targeted_p_values_are_genome_wide_fdr": false,
+  "min_depth": 20,
+  "min_donors": 3,
+  "shared_celltypes_only": true,
+  "contrast_definition": "signed differences between equal-source cell-type mean usage profiles for every cell-type pair and union feature",
+  "contrast_threshold": 0.02,
+  "unit_audits": {
+    "diu:GSE276974": {
+      "expected_registry_runs": 9,
+      "available_registry_runs": 9,
+      "excluded_input_runs_ignored": [],
+      "missing_registry_runs": [],
+      "analysis_units": 4,
+      "independent_donors": 4
+    },
+    "diu:GSE307660": {
+      "expected_registry_runs": 16,
+      "available_registry_runs": 16,
+      "excluded_input_runs_ignored": [],
+      "missing_registry_runs": [],
+      "analysis_units": 16,
+      "independent_donors": 15
+    },
+    "apa:GSE276974": {
+      "expected_registry_runs": 9,
+      "available_registry_runs": 9,
+      "excluded_input_runs_ignored": [],
+      "missing_registry_runs": [],
+      "analysis_units": 4,
+      "independent_donors": 4
+    },
+    "apa:GSE307660": {
+      "expected_registry_runs": 16,
+      "available_registry_runs": 16,
+      "excluded_input_runs_ignored": [],
+      "missing_registry_runs": [],
+      "analysis_units": 16,
+      "independent_donors": 15
+    },
+    "ase:GSE276974": {
+      "expected_registry_runs": 9,
+      "available_registry_runs": 9,
+      "excluded_input_runs_ignored": [],
+      "missing_registry_runs": [],
+      "analysis_units": 4,
+      "independent_donors": 4
+    },
+    "ase:GSE307660": {
+      "expected_registry_runs": 16,
+      "available_registry_runs": 16,
+      "excluded_input_runs_ignored": [
+        "SRR35267330"
+      ],
+      "missing_registry_runs": [],
+      "analysis_units": 16,
+      "independent_donors": 15
+    }
+  },
+  "registry": "/gpfs/home/fuzc/Seq_Database/scLong/results/science_first/phase2_design/analysis_unit_registry_v2/analysis_unit_manifest.tsv",
+  "registry_sha256": "9d9cb7599c045933956d285c383cd9bf1e81c15bf544be0bef2e4d5bd56adb23",
+  "input_file_count": 200,
+  "outputs": {
+    "tests": {
+      "path": "/gpfs/home/fuzc/project/scTHREAD/NAR_database/tables/p0_biological_unit_rerun/study_stratified_replication/study_stratified_targeted_tests.tsv",
+      "sha256": "a0a16a7168e3e13ddd43c521c850b13cff7a294810477e996ca478175cc8583a"
+    },
+    "profiles": {
+      "path": "/gpfs/home/fuzc/project/scTHREAD/NAR_database/tables/p0_biological_unit_rerun/study_stratified_replication/study_stratified_profiles.tsv",
+      "sha256": "a330696b248e952536eff4567f2950a625d4a716c57760484f802cf1af03e958"
+    },
+    "concordance": {
+      "path": "/gpfs/home/fuzc/project/scTHREAD/NAR_database/tables/p0_biological_unit_rerun/study_stratified_replication/cross_study_concordance.tsv",
+      "sha256": "debfd59c0c3bf648b1e0c9639472e52addb5d76595aea52ff1bf1c063c5ac15f"
+    }
+  }
+}

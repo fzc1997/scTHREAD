@@ -1,0 +1,59 @@
+{
+  "captured_at_utc": "2026-08-04T20:16:45.782735+00:00",
+  "base_url": "https://scthread.ai4sc.ac.cn",
+  "viewport_css_px": [
+    1440,
+    900
+  ],
+  "device_scale_factor": 2.0,
+  "pages": [
+    {
+      "file": "01_home_current.png",
+      "url": "https://scthread.ai4sc.ac.cn/",
+      "expected_text": "scTHREAD",
+      "expected_text_present": true,
+      "body_text_excerpt": "Welcome to scTHREAD\nscTHREAD\nSearch\nBrowse\nAnalyze\nDownload\nAbout\nSearch portal evidence\nSearch\nFrozen release · 453 runs · 2026-08-03\nLive catalog · rolling\nManuscript figures and tables cite the frozen release.\nRelease details\nscTHREAD: a uniformly reprocessed single-cell long-read transcriptome resource\n\nscTHREAD integrates 453 run records from 34 human and mouse datasets and 923,389 cells, with more than 200,000 observed transcript isoforms. Harmonized processing supports comparable views of isoform usage, poly(A) site choice, allelic balance and recurrent novel junctions, with coverage reported separately for each evidence layer.\n\nStatistics\n453\nSequencing runs\n923,389\nCells\n>200,000\nObserved isoforms\n\nHuman and mouse long-read transcriptomes\n\nFilter studies\nMinimum run count\nAll run counts\n≥ 2 runs\n≥ 5 runs\n≥ 10 runs\n453 runs\nLoading biological study descriptions…\nGlobal cell map\n\nCell-resolved portal atlas: 141,313 cells across 21 datasets (123 runs, 90 cell types). UMAP is exploratory and does not imply trajectory.\n\nCompare balanced, all-cell and density atlas views →\n\nEvidence layers\nGene expression\nAvailable\nIsoform\nAvailable\nPoly(A)\nAvailable\nASE\nAvailable\nJunction\nAvailable\n\nEach result reports the runs and biological units that contribute to that evidence layer.\n\nNews\n\n08/04/26 The frozen release 2026-08-03 now covers 453 run records from 34 human and mouse datasets and 923,389 cells.\n\n07/29/26 The live catalog now covers approximately 450 admitted human and mouse long-read RNA sequencing runs; Search reports datasets and runs separately.\n\n07/21/26 The portal atlas now exposes study-wide expression, isoform, poly(A), ASE and junction evidence.\n\n07/21/26 Analyze now offers only feature-specific cell-type comparisons with sufficient paired biological samples.\n\n07/19/26 Read-level evidence and cell annotations were independently audited.\n\nQuick Search\nSearch biological sources, genes and coordinates\nHuman\nMouse\nSearch\n\nFind biological sources, genes, run a",
+      "png_bytes": 404750
+    },
+    {
+      "file": "02_search_PTPRC_current.png",
+      "url": "https://scthread.ai4sc.ac.cn/search?q=PTPRC&species=human",
+      "expected_text": "PTPRC",
+      "expected_text_present": true,
+      "body_text_excerpt": "Welcome to scTHREAD\nscTHREAD\nSearch\nBrowse\nAnalyze\nDownload\nAbout\nSearch portal evidence\nSearch\nFrozen release · 453 runs · 2026-08-03\nLive catalog · 454 runs · rolling\nThe frozen release 2026-08-03 defines the portal headline scope; the live catalog remains the rolling view for Search and Browse, and each evidence layer reports its own run-level coverage.\nDownload frozen release\nSEARCH\nFind a dataset or gene.\n\nChoose a species first. Then open a dataset directly or search by biological context, gene, accession or coordinate.\n\nSpecies\nHuman\nMouse\nBROWSE A DATASET\nChoose by biological source\n\nLabels describe tissue, disease or cell line; accessions remain available in the results.\n\nHuman catalog · 20 datasets · 117 sequencing runs. 19 datasets currently have cell-resolved Browse evidence.\n\nHuman · Frontal cortex · single-nucleus isoform sequencing (2022 Nature Biotechnology) · GSE178175 · 20 runs\nHuman · Tumors and cancer cell lines · scNanoGPS (2023 Nature Communications) · GSE212945 · 6 runs\nHuman · CAR T cells · signaling-domain shuffling (2022 Nature Communications) · GSE214231 · 6 runs\nHuman · Lung cancer cell-line mixture · 20% mixture (2023 NAR Genomics and Bioinformatics) · GSE224045 · 1 runs\nHuman · Ovarian cancer cell-line mixture · Isosceles benchmark (2024 Nature Communications) · GSE248118 · 1 runs\nHuman · Lymph node B cells · CaClust K7B (2024 Genome Biology) · GSE252344 · 1 runs\nHuman · Lymph node B cells · CaClust K6B (2024 Genome Biology) · GSE252416 · 1 runs\nHuman · Cortical neurons · iPSC differentiation (GSE274249) · GSE274249 · 4 runs\nHuman · Bone marrow · CCUS and healthy donors (GSE276974) · GSE276974 · 15 runs\nHuman · iNeurons · Neurabin-I perturbation (GSE283629) · GSE283629 · 4 runs\nHuman · Fibroblasts · hematopoietic reprogramming (GSE283658) · GSE283658 · 4 runs\nHuman · Heart · heart failure (2025 Circulation) · GSE288222 · 12 runs\nHuman · HeLa cells · TLDR-seq (2025 Nucleic Acids Research) · GSE289428 · 3 runs\nHuman · Prostate cancer cell",
+      "png_bytes": 281801
+    },
+    {
+      "file": "05_download_current.png",
+      "url": "https://scthread.ai4sc.ac.cn/download",
+      "expected_text": "Frozen release TSV",
+      "expected_text_present": true,
+      "body_text_excerpt": "Welcome to scTHREAD\nscTHREAD\nSearch\nBrowse\nAnalyze\nDownload\nAbout\nSearch portal evidence\nSearch\nFrozen release · 453 runs · 2026-08-03\nLive catalog · 454 runs · rolling\nThe frozen release 2026-08-03 defines the portal headline scope; the live catalog remains the rolling view for Search and Browse, and each evidence layer reports its own run-level coverage.\nDownload frozen release\nDownload\nSample manifests\n\nThe frozen release 2026-08-03 is the current portal denominator: 453 run records from 34 human and mouse datasets and 923,389 cells. The live catalog remains the rolling view for Search and Browse.\n\nLive catalog TSVFrozen release TSV\nStudy\tBiological context\tRun accession\tSpecies\tPlatform\tLibrary kit\tCells\tStatus\nLoading run-level metadata…\nASE table\n\nDonor-controlled allelic-balance results.\n\nDownload TSV\nDIU / APA tables\n\nVerified gene-level RNA-processing results.\n\nDIU CSVAPA CSV\n\nCopyright © 2026 scTHREAD. Harmonized single-cell long-read transcriptome resource. · Data status: 27 July 2026\n↑",
+      "png_bytes": 205333
+    },
+    {
+      "file": "06_analyze_current.png",
+      "url": "https://scthread.ai4sc.ac.cn/analyze",
+      "expected_text": "Compare cell types.",
+      "expected_text_present": true,
+      "body_text_excerpt": "Welcome to scTHREAD\nscTHREAD\nSearch\nBrowse\nAnalyze\nDownload\nAbout\nSearch portal evidence\nSearch\nFrozen release · 453 runs · 2026-08-03\nLive catalog · rolling\nManuscript figures and tables cite the frozen release.\nRelease details\nANALYZE\nCompare cell types.\n\nTest whether a gene uses different isoforms or poly(A) sites between two cell types. Only comparisons supported by paired samples are offered.\n\n1\nGene or junction\nGene\nJunction\n2\nWhat should be compared?\nIsoform usage\nPoly(A) site usage\nJunction usage\nAllelic balance (summary only)\n3\nCell types\nCell type A\nLoading options…\nVERSUS\nCell type B\nLoading options…\nDataset or tissue\n(optional)\nAll eligible samples\nRun comparison\n\nFinding eligible DIU comparisons for MACF1…\n\nCOMPARISON\nChoose two cell types\n\nThe result will show which transcript feature differs and how many paired samples support the comparison.\n\nCopyright © 2026 scTHREAD. Harmonized single-cell long-read transcriptome resource. · Data status: 27 July 2026\n↑",
+      "png_bytes": 247767
+    },
+    {
+      "file": "07_about_current.png",
+      "url": "https://scthread.ai4sc.ac.cn/about",
+      "expected_text": "About scTHREAD",
+      "expected_text_present": true,
+      "body_text_excerpt": "Welcome to scTHREAD\nscTHREAD\nSearch\nBrowse\nAnalyze\nDownload\nAbout\nSearch portal evidence\nSearch\nFrozen release · 453 runs · 2026-08-03\nLive catalog · 454 runs · rolling\nThe frozen release 2026-08-03 defines the portal headline scope; the live catalog remains the rolling view for Search and Browse, and each evidence layer reports its own run-level coverage.\nDownload frozen release\nHarmonized representation workflow\n01\nRaw long reads\n\nHuman and mouse sequencing runs enter without relying on published aggregates.\n\n02\nPlatform-aware processing\n\nProtocol-specific barcode and UMI recovery followed by IsoQuant transcript assignment.\n\n03\nCell × molecule\n\nRun-aware barcode joins and per-cell UMI deduplication.\n\n04\nShared evidence\n\nIsoform, PAS, junction and allelic views from one read-facts layer.\n\nShow processing details\nShow analysis details\nAbout scTHREAD\nLoading release metadata from the backend…\nFirst-user tutorial: trace PTPRC evidence\n01\nSearch\n\nOpen PTPRC search results and select the human gene record.\n\n02\nInspect context\n\nOn the gene page, compare the analysis-status strip with the shared-coordinate cell map.\n\n03\nSelect evidence\n\nChoose an isoform, inspect its usage denominator, then open the junction tab and apply the molecule filter.\n\n04\nReuse\n\nExport the visible table or reproduce the overview through the documented API.\n\nScope rule. Counts in a filtered browser table are not database-wide totals. Each overview and export labels its evidence layer and scope; the frozen manuscript manifest is separate from the rolling live registry.\n\nCopyright © 2026 scTHREAD. Harmonized single-cell long-read transcriptome resource. · Data status: 27 July 2026\n↑",
+      "png_bytes": 213121
+    },
+    {
+      "file": "08_docs_current.png",
+      "url": "https://scthread.ai4sc.ac.cn/docs",
+      "expected_text": "scTHREAD API",
+      "expected_text_present": true,
+      "body_text_excerpt": "scTHREAD API\n 0.10.0 \nOAS 3.1\n/openapi.json\n\nBackend for search, browse, sample-aware analysis, gated prediction, annotation tools, downloads and privacy-minimal visitor statistics.\n\ndefault\nGET\n/api/health\nHealth\nGET\n/api/search\nSearch\nGET\n/api/browse/genes\nBrowse Genes\nGET\n/api/browse/gene/{gene}\nBrowse Gene\nGET\n/api/gene/{gene}/overview\nGene Overview\nGET\n/api/gene/{gene}/expression\nGene Expression\nGET\n/api/gene/{gene}/isoforms\nGene Isoforms\nGET\n/api/gene/{gene}/pas\nGene Pas\nGET\n/api/gene/{gene}/ase\nGene Ase\nGET\n/api/umap/metadata\nUmap Metadata\nGET\n/api/gene/{gene}/umap-options\nGene Umap Options\nGET\n/api/umap/points\nUmap Points\nGET\n/assets/global-umap.v2.json\nGlobal Umap Snapshot\nGET\n/assets/global-umap.v3.json\nGlobal Umap Snapshot\nGET\n/api/browse/region\nBrowse Region\nGET\n/api/browse/filters\nBrowse Filters\nGET\n/api/browse/context\nBrowse Context\nGET\n/api/statistics\nStatistics\nGET\n/api/analyze/summary\nAnalyze Summary\nGET\n/api/analyze/options\nAnalyze Options\nPOST\n/api/analyze/compare\nAnalyze Compare\nGET\n/api/analyze/{analysis}\nAnalyze Table\nGET\n/api/predict/metrics\nPredict Metrics\nGET\n/api/predict/status\nPredict Status\nPOST\n/api/predict/junction\nPredict Junction\nGET\n/api/predict/features/{junction_id}\nPredict Features\nPOST\n/api/tool/normalize\nNormalize Coordinate\nPOST\n/api/tool/junctions\nBatch Junctions\nPOST\n/api/tools/junction-annotator\nJunction Annotator\nGET\n/api/samples\nPublic Samples\nGET\n/api/download/table/{asset}\nDownload Asset\nGET\n/api/download/region.csv\nDownload Region\nGET\n/api/release\nRelease Context\nGET\n/api/about\nAbout\nPOST\n/api/analytics/visit\nRecord Visitor Event\nGET\n/api/analytics/summary\nVisitor Summary\nGET\n/\nHome\nGET\n/app.js\nFrontend Javascript\nGET\n/umap-gallery\nUmap Gallery\nGET\n/umap-gallery/manifest.json\nUmap Gallery Manifest\nGET\n/assets/umap-gallery/{filename}\nUmap Gallery Asset\nGET\n/assets/portal-atlas.png\nPortal Atlas Png\nGET\n/{path}\nSpa Fallback\nSchemas\nAboutResponseExpand allobject\nAnalyzeCompareRequestExpand allobject\nBatchJunctionRequestExpa",
+      "png_bytes": 220857
+    }
+  ]
+}

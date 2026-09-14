@@ -1,0 +1,35 @@
+gse	tissue	system	system_display	species	platform	n_runs	n_cells	ASE	DIU	APA	F2jct	labeled_frac_all
+GSE178175	Frontal cortex	Brain	Brain	human	PacBio	21	121244	3.0	3.0	3.0	3.0	0.9818688550201022
+GSE276974	CCUS marrow	Blood/marrow	Blood/marrow	human	ONT	15	117300	9.0	9.0	9.0	9.0	0.9404198857373974
+GSE295353	Mouse long-read (ONT)	Other	Other	mouse	ONT	6	90963					
+GSE283629	iNeuron trajectory	Brain	Brain	human	ONT	4	74540	4.0	4.0	4.0	4.0	0.9200470886510128
+GSE303762	Cross-platform BM mix	Blood/marrow	Blood/marrow	human	ONT	2	71800	2.0	2.0	2.0	2.0	0.9986537754141612
+OWN_ASE_scONT	Mouse gastrulation (scONT E6.5–E8.5)	Embryo	Embryo	mouse	ONT	6	68417					
+GSE307660	Myeloma marrow	Blood/marrow	Blood/marrow	human	ONT	19	68407	16.0	16.0	16.0	16.0	0.9823581767425236
+GSE288222	Adult heart	Heart	Heart	human	ONT	12	67992	12.0	12.0	11.0	12.0	0.4024821936258343
+GSE292324	Splicing dynamics (AML-like)	Blood/marrow	Blood/marrow	human	PacBio	8	55507					
+benagen_human_ovary	Human ovary (snap-frozen nuclei)	Reproductive	Reproductive	human	ONT	3	45497					
+GSA_mouse_testis_11week	Mouse testis (11 week)	Reproductive	Reproductive	mouse	ONT	2	39585					
+GSE274249	iPSC→cortical neuron	Brain	Brain	human	ONT	4	34973	4.0	4.0	4.0	4.0	0.9827450985528536
+GSE314176	Mouse brain translation	Brain	Brain	mouse	PacBio	3	31224					
+GSE212945	scNanoGPS multi-sample	Other	Other	human	ONT	6	30040	5.0	5.0	5.0	5.0	0.8678634918228939
+GSE283658	Fibroblast→HSC	Differentiation	Differentiation	human	ONT	4	29138	3.0	3.0	3.0	3.0	0.992781157901318
+GSE295352	Mouse brain long-read	Brain	Brain	mouse	ONT	6	22950					
+GSE295932	Human sc long-read	Other	Other	human	ONT	4	21623					
+GSE158450	Mouse hippocampus	Brain	Brain	mouse	PacBio	4	18179	0.0	0.0	1.0	1.0	0.0
+GSE255520	Mouse retina	Brain	Brain	mouse	ONT	3	11689					
+GSE224045	sc long-read (misc)	Other	Other	human	ONT	1	8756	1.0	1.0	1.0	1.0	1.0
+GSE130708	Mouse brain (ONT)	Brain	Brain	mouse	ONT	6	4644	0.0	3.0	3.0	2.0	0.992681417524787
+GSE289790	Prostate cancer	Cancer	Cancer	human	ONT	2	4015	2.0	2.0	2.0	2.0	0.9992586228653506
+GSE301658	Pediatric glioma	Cancer	Cancer	human	ONT	1	3831	1.0	1.0	1.0	1.0	0.817225797172854
+GSE248118	Human ovary (Isosceles)	Reproductive	Reproductive	human	ONT	1	2331	1.0	1.0	1.0	1.0	0.9948971110896307
+GSE250381	Mouse preimplantation embryo	Embryo	Embryo	mouse	PacBio	4	243					
+GSE309071	Mouse endothelium (SS2)	Differentiation	Differentiation	mouse	ONT	212	212					
+GSE252344	Human PacBio	Other	Other	human	PacBio	1	45					
+GSE185554	Mouse SS2 plate	Smart-seq2	Smart-seq2	mouse	ONT	42	42					
+GSE274527	Mouse SS2 plate	Smart-seq2	Smart-seq2	mouse	ONT	24	24					
+GSE76026	Mouse PacBio wells	Smart-seq2	Smart-seq2	mouse	PacBio	12	12					
+GSE114157	Mouse SS2 wells	Smart-seq2	Smart-seq2	mouse	ONT	5	5					
+GSE289428	TLDR-seq full-length RNA	Other	Other	human	ONT	3	3					
+GSE252416	Genotype–transcript	Other	Other	human	PacBio	1	0					
+GSE214231	CAR-T engineering	Other	Other	human	PacBio	6	0					

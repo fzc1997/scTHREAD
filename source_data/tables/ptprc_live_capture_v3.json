@@ -1,0 +1,18 @@
+{
+  "captured_at_utc": "2026-08-04T23:39:44.402403+00:00",
+  "source_url": "https://scthread.ai4sc.ac.cn/browse?species=human&query=PTPRC",
+  "gene": "PTPRC",
+  "viewport_css_px": [
+    1500,
+    1200
+  ],
+  "device_scale_factor": 2.0,
+  "browser_location": "PTPRC · ENSG00000081237 · chr1:198,638,457-198,757,476 · 320 junctions",
+  "evidence_text": "Database-wide evidence\nAll available gene and isoform evidence\nCell-type differential\nIsoform usage (DIU) · effect 0.338 · q 0.000879\nCell-type differential\nPoly(A) usage (APA) · effect 0.204 · q 0.000601\nNot significant\nASE cell-type interaction · effect 0.194 · q 0.949\n9,019 junctions\n2,343,770 molecules across available samples",
+  "crop_note": "The gene-list sidebar and detailed data views were hidden only to crop the live toolbar, location, evidence strip and tabs without altering data.",
+  "files": [
+    "ptprc_gene_card_live_v3.png",
+    "ptprc_evidence_strip_live_v3.png",
+    "ptprc_isoforms_live_v3.png"
+  ]
+}

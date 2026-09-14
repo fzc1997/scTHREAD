@@ -1,3 +1,6 @@
-__pycache__/
-*.pyc
+
+figures/output/
 *.log
+outputs/
+*.pyc
+__pycache__/

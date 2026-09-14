@@ -1,0 +1,79 @@
+{
+  "captured_at_utc": "2026-08-05T08:31:19.297238+00:00",
+  "source_url": "http://10.168.3.4:4173/browse?species=human&query=PTPRC",
+  "gene": "PTPRC",
+  "species": "human",
+  "viewport_css_px": [
+    1500,
+    1200
+  ],
+  "device_scale_factor": 2.0,
+  "max_crop_height_css_px": 900.0,
+  "only_view": "cellmap",
+  "cellmap_right_view": "isoform",
+  "cellmap_isoform": "ENST00000367364",
+  "cellmap_source": "",
+  "cellmap_color_max": 5.0,
+  "browser_location": "PTPRC · ENSG00000081237 · chr1:198,638,457-198,757,476 · 436 junctions",
+  "evidence_text": "Database-wide evidence\nAll available gene and isoform evidence\nCell-type differential\nIsoform usage (DIU) · effect 0.338 · q 0.000879\nCell-type differential\nPoly(A) usage (APA) · effect 0.204 · q 0.000601\nNot significant\nASE cell-type interaction · effect 0.194 · q 0.949\n10,982 junctions\n2,846,241 molecules across available samples",
+  "crop_note": "Each crop begins at the six-tab strip and includes the active view up to a common maximum height. The gene sidebar was hidden only to use the full publication width; no data were altered.",
+  "views": [
+    {
+      "view": "cellmap",
+      "active_button": "Cell Map",
+      "junction_rows": null,
+      "track_rows": 0,
+      "text_excerpt": "Right view\nIsoform expression\nGene expression\nPoly(A) site usage\nAllelic balance (ASE)\nIsoform\nENST00000367364 · 47,951 long-read molecules\nENST00000697630 · 32,456 long-read molecules\nENST00000484135 · 13,384 long-read molecules\nENST00000697635 · 9,083 long-read molecules\nENST00000442510 · 7,198 long-read molecules\nENST00000530727 · 3,956 long-read molecules\nENST00000367367 · 3,342 long-read molecules\nENST00000367379 · 2,652 long-read molecules\nENST00000348564 · 2,521 long-read molecules\nENST00000529828 · 1,613 long-read molecules\nENST00000413409 · 1,612 long-read molecules\nENST00000462363 · 1,541 long-read molecules\nENST00000697634 · 783 long-read molecules\nENST00000697632 · 305 long-read molecules\nENST00000418674 · 304 long-read molecules\nENST00000643513 · 268 long-read molecules\nENST00000491302 · 153 long-read molecules\nENST00000697633 · 134 long-read molecules\nENST00000391970 · 131 long-read molecules\nENST00000646230 · 57 long-read molecules\nPoly(A) site\nNo quantified poly(A) site\nDevelopmental stage\nNo dataset condition filter\nColor max\n5\nAuto\nCell-type annotation\nHarmonized cell type\nAstrocyte\nB cell\nCardiomyocyte\nCell line / method sample\nCycling\nCycling progenitor\nDendritic cell\nEndocardial\nEndothelial\nErythroid\nExcitatory neuron\nFibroblast\nGranulo/Myeloid\nImmature neuron\nInhibitory neuron\nLymphatic\nLymphoid\nMES-like\nMature neuron\nMonocyte\nMonocyte / myeloid\nNK\nNPC-like\nNeural progenitor\nNeuronal\nOPC\nOPC-like\nOligodendrocyte\nPericyte\nPlasma cell\nPluripotent\nProgenitor\nSmooth muscle\nT cell\nUnassigned\nENST00000367364 isoform expression\nENST00000367364 expression\n0 → 5 long-read molecules. Near-white indicates zero or low detection.\n\nscTHREAD cell-resolved portal atlas UMAP · 105,857 displayed cells from 420,504 eligible cells · deterministic run-by-cell-type sample. UMAP is exploratory and does not imply trajectory.",
+      "file": "02_cell_map.png",
+      "png_bytes": 882291,
+      "clip_css_px": {
+        "x": 180.0,
+        "y": 616.5,
+        "width": 1140.0,
+        "height": 848.265625
+      },
+      "cellmap_config": {
+        "right_view": "isoform",
+        "mode_selection": {
+          "control_id": "umapSignalChoices",
+          "selected_value": "isoform",
+          "selected_text": "Isoform expression"
+        },
+        "isoform_selection": {
+          "control_id": "umapIsoform",
+          "selected_value": "ENST00000367364",
+          "selected_text": "ENST00000367364 · 47,951 long-read molecules"
+        },
+        "source_selection": null,
+        "load_state": "rendered:human::ENSG00000081237:sampled:4",
+        "legend_text": "ENST00000367364 expression\n0 → 22 long-read molecules. Near-white indicates zero or low detection.",
+        "color_max": {
+          "requested_ceiling": 5.0,
+          "slider_before": {
+            "min": "0",
+            "max": "44",
+            "step": "0.4",
+            "value": "22"
+          },
+          "slider_value": "5",
+          "displayed_value": "5",
+          "legend_text": "ENST00000367364 expression\n0 → 5 long-read molecules. Near-white indicates zero or low detection."
+        },
+        "canvas_geometry": {
+          "cell": {
+            "x": 182,
+            "y": 828.765625,
+            "width": 567.5,
+            "height": 430
+          },
+          "signal": {
+            "x": 750.5,
+            "y": 828.765625,
+            "width": 567.5,
+            "height": 430
+          }
+        }
+      }
+    }
+  ]
+}

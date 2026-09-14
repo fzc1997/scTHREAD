@@ -1,0 +1,95 @@
+{
+  "biological_units": 13,
+  "estimable_genes": 9,
+  "excluded_genes": {
+    "SSU72": "both frozen-panel directions are not directly observed",
+    "TRAPPC1": "both frozen-panel directions are not directly observed"
+  },
+  "genes": {
+    "CCND3": {
+      "benjamini_hochberg_q": 0.00054931640625,
+      "exact_two_sided_sign_flip_p": 0.000244140625,
+      "mean_monocyte_minus_t_cell_usage": 0.7184012953081795,
+      "median_monocyte_minus_t_cell_usage": 0.7638831756478814,
+      "negative_units": 0,
+      "positive_units": 13,
+      "ties": 0
+    },
+    "CUTA": {
+      "benjamini_hochberg_q": 0.00054931640625,
+      "exact_two_sided_sign_flip_p": 0.000244140625,
+      "mean_monocyte_minus_t_cell_usage": 0.43531222094970795,
+      "median_monocyte_minus_t_cell_usage": 0.4575175511271966,
+      "negative_units": 0,
+      "positive_units": 13,
+      "ties": 0
+    },
+    "EMP3": {
+      "benjamini_hochberg_q": 0.062255859375,
+      "exact_two_sided_sign_flip_p": 0.04150390625,
+      "mean_monocyte_minus_t_cell_usage": 0.0277039293695652,
+      "median_monocyte_minus_t_cell_usage": 0.014123131770190589,
+      "negative_units": 3,
+      "positive_units": 10,
+      "ties": 0
+    },
+    "EVI2B": {
+      "benjamini_hochberg_q": 0.28289794921875,
+      "exact_two_sided_sign_flip_p": 0.25146484375,
+      "mean_monocyte_minus_t_cell_usage": -0.007116629106005113,
+      "median_monocyte_minus_t_cell_usage": -0.012910620171828757,
+      "negative_units": 10,
+      "positive_units": 2,
+      "ties": 1
+    },
+    "IRF1-AS1": {
+      "benjamini_hochberg_q": 0.16071428571428573,
+      "exact_two_sided_sign_flip_p": 0.125,
+      "mean_monocyte_minus_t_cell_usage": -0.013102933992916191,
+      "median_monocyte_minus_t_cell_usage": 0.0,
+      "negative_units": 4,
+      "positive_units": 0,
+      "ties": 9
+    },
+    "PSMB8": {
+      "benjamini_hochberg_q": 0.00054931640625,
+      "exact_two_sided_sign_flip_p": 0.000244140625,
+      "mean_monocyte_minus_t_cell_usage": 0.22488327287653803,
+      "median_monocyte_minus_t_cell_usage": 0.17527701073088886,
+      "negative_units": 0,
+      "positive_units": 13,
+      "ties": 0
+    },
+    "RPL41": {
+      "benjamini_hochberg_q": 0.00054931640625,
+      "exact_two_sided_sign_flip_p": 0.000244140625,
+      "mean_monocyte_minus_t_cell_usage": 0.15109577814458208,
+      "median_monocyte_minus_t_cell_usage": 0.17786738351254483,
+      "negative_units": 0,
+      "positive_units": 13,
+      "ties": 0
+    },
+    "S100A6": {
+      "benjamini_hochberg_q": 0.931396484375,
+      "exact_two_sided_sign_flip_p": 0.931396484375,
+      "mean_monocyte_minus_t_cell_usage": 0.0001864412255644291,
+      "median_monocyte_minus_t_cell_usage": -0.0008553415599892311,
+      "negative_units": 7,
+      "positive_units": 6,
+      "ties": 0
+    },
+    "SMAP2": {
+      "benjamini_hochberg_q": 0.00087890625,
+      "exact_two_sided_sign_flip_p": 0.00048828125,
+      "mean_monocyte_minus_t_cell_usage": 0.0811044396281874,
+      "median_monocyte_minus_t_cell_usage": 0.08024751510426817,
+      "negative_units": 0,
+      "positive_units": 12,
+      "ties": 1
+    }
+  },
+  "global_exact_p": 0.0048828125,
+  "global_statistic": "genes with positive median and positive direction in >=10/13 units",
+  "observed_global_genes": 6,
+  "permutations": 8192
+}

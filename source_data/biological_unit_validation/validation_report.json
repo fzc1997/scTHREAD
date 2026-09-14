@@ -1,0 +1,573 @@
+{
+  "schema_version": "scTHREAD.biological_unit_rerun.validation.v2",
+  "status": "PASS",
+  "independence": "BH and significance flags recomputed without statsmodels; file hashes and unit/input contracts replayed from manifests",
+  "null_recorded_range_raw_p_lt_0_05": [
+    0.02,
+    0.08
+  ],
+  "summary_path": "source_data/biological_unit_validation/validation_summary.tsv",
+  "summary_sha256": "f98b59f0bc00560d11481ab322dc834c6c604b601c8783dd675e402c7e6c2996",
+  "details": {
+    "diu": {
+      "top10": [
+        {
+          "statistic": 0.0100959323126867,
+          "pval": 0.0001,
+          "effect_equal_donor": 0.4293899372334764,
+          "effect_pooled_counts": 0.4356983398738637,
+          "n_features": 23,
+          "n_celltypes": 7,
+          "n_donors": 19,
+          "min_donors_per_celltype": 10,
+          "max_donors_per_celltype": 19,
+          "gene": "ENSG00000003402",
+          "qval": 0.0008786102062975,
+          "sig": true
+        },
+        {
+          "statistic": 0.0003289064540246,
+          "pval": 0.0001,
+          "effect_equal_donor": 0.1705461148736447,
+          "effect_pooled_counts": 0.0929101733946568,
+          "n_features": 5,
+          "n_celltypes": 7,
+          "n_donors": 19,
+          "min_donors_per_celltype": 12,
+          "max_donors_per_celltype": 19,
+          "gene": "ENSG00000004059",
+          "qval": 0.0008786102062975,
+          "sig": false
+        },
+        {
+          "statistic": 0.0280692910953513,
+          "pval": 0.0001,
+          "effect_equal_donor": 0.4726470776329528,
+          "effect_pooled_counts": 0.4770993468506188,
+          "n_features": 16,
+          "n_celltypes": 6,
+          "n_donors": 15,
+          "min_donors_per_celltype": 3,
+          "max_donors_per_celltype": 15,
+          "gene": "ENSG00000004455",
+          "qval": 0.0008786102062975,
+          "sig": true
+        },
+        {
+          "statistic": 0.013125288163761,
+          "pval": 0.0001,
+          "effect_equal_donor": 0.5236805743583606,
+          "effect_pooled_counts": 0.5541946135027487,
+          "n_features": 43,
+          "n_celltypes": 6,
+          "n_donors": 15,
+          "min_donors_per_celltype": 4,
+          "max_donors_per_celltype": 14,
+          "gene": "ENSG00000005302",
+          "qval": 0.0008786102062975,
+          "sig": true
+        },
+        {
+          "statistic": 0.0030300098268163,
+          "pval": 0.0001,
+          "effect_equal_donor": 0.3049774069715231,
+          "effect_pooled_counts": 0.2577648009679053,
+          "n_features": 18,
+          "n_celltypes": 7,
+          "n_donors": 19,
+          "min_donors_per_celltype": 9,
+          "max_donors_per_celltype": 19,
+          "gene": "ENSG00000005483",
+          "qval": 0.0008786102062975,
+          "sig": true
+        },
+        {
+          "statistic": 0.0038197881737648,
+          "pval": 0.0001,
+          "effect_equal_donor": 0.376076353697756,
+          "effect_pooled_counts": 0.1653017671193956,
+          "n_features": 8,
+          "n_celltypes": 7,
+          "n_donors": 19,
+          "min_donors_per_celltype": 13,
+          "max_donors_per_celltype": 19,
+          "gene": "ENSG00000006015",
+          "qval": 0.0008786102062975,
+          "sig": true
+        },
+        {
+          "statistic": 0.0133698222509486,
+          "pval": 0.0001,
+          "effect_equal_donor": 0.5294722305687309,
+          "effect_pooled_counts": 0.4590126890318094,
+          "n_features": 16,
+          "n_celltypes": 5,
+          "n_donors": 11,
+          "min_donors_per_celltype": 5,
+          "max_donors_per_celltype": 7,
+          "gene": "ENSG00000006125",
+          "qval": 0.0008786102062975,
+          "sig": true
+        },
+        {
+          "statistic": 0.020976998822767,
+          "pval": 0.0001,
+          "effect_equal_donor": 0.4394995004629692,
+          "effect_pooled_counts": 0.4623110654972943,
+          "n_features": 19,
+          "n_celltypes": 5,
+          "n_donors": 10,
+          "min_donors_per_celltype": 6,
+          "max_donors_per_celltype": 10,
+          "gene": "ENSG00000006530",
+          "qval": 0.0008786102062975,
+          "sig": true
+        },
+        {
+          "statistic": 0.0174469096296234,
+          "pval": 0.0001,
+          "effect_equal_donor": 0.2996426253871903,
+          "effect_pooled_counts": 0.324237204184444,
+          "n_features": 12,
+          "n_celltypes": 6,
+          "n_donors": 14,
+          "min_donors_per_celltype": 3,
+          "max_donors_per_celltype": 14,
+          "gene": "ENSG00000006715",
+          "qval": 0.0008786102062975,
+          "sig": true
+        },
+        {
+          "statistic": 0.0039601235807001,
+          "pval": 0.0001,
+          "effect_equal_donor": 0.3899297904617053,
+          "effect_pooled_counts": 0.3139304008647022,
+          "n_features": 23,
+          "n_celltypes": 7,
+          "n_donors": 16,
+          "min_donors_per_celltype": 3,
+          "max_donors_per_celltype": 15,
+          "gene": "ENSG00000007168",
+          "qval": 0.0008786102062975,
+          "sig": true
+        }
+      ],
+      "requested_genes": [
+        {
+          "statistic": 0.005875333393216,
+          "pval": 0.0001,
+          "effect_equal_donor": 0.3382009946583691,
+          "effect_pooled_counts": 0.4832034019464805,
+          "n_features": 23,
+          "n_celltypes": 7,
+          "n_donors": 19,
+          "min_donors_per_celltype": 4,
+          "max_donors_per_celltype": 19,
+          "gene": "ENSG00000081237",
+          "qval": 0.0008786102062975,
+          "sig": true
+        },
+        {
+          "statistic": 0.0003480680367479,
+          "pval": 0.0121,
+          "effect_equal_donor": 0.1783455509482906,
+          "effect_pooled_counts": 0.2094009382894261,
+          "n_features": 10,
+          "n_celltypes": 3,
+          "n_donors": 4,
+          "min_donors_per_celltype": 3,
+          "max_donors_per_celltype": 4,
+          "gene": "ENSG00000156738",
+          "qval": 0.0369623254058135,
+          "sig": false
+        }
+      ],
+      "requested_gene_identifiers": {
+        "PTPRC": [
+          "PTPRC",
+          "ENSG00000081237"
+        ],
+        "MS4A1": [
+          "MS4A1",
+          "ENSG00000156738"
+        ]
+      }
+    },
+    "apa": {
+      "top10": [
+        {
+          "statistic": 0.0012091330835582,
+          "pval": 0.0001,
+          "effect_equal_donor": 0.2028423964594488,
+          "effect_pooled_counts": 0.1847572362278244,
+          "n_features": 25,
+          "n_celltypes": 7,
+          "n_donors": 18,
+          "min_donors_per_celltype": 7,
+          "max_donors_per_celltype": 18,
+          "gene": "ENSG00000000419",
+          "qval": 0.0006010844748858,
+          "sig": true
+        },
+        {
+          "statistic": 0.003852184135857,
+          "pval": 0.0001,
+          "effect_equal_donor": 0.3818644492917607,
+          "effect_pooled_counts": 0.4154234654234654,
+          "n_features": 28,
+          "n_celltypes": 7,
+          "n_donors": 18,
+          "min_donors_per_celltype": 4,
+          "max_donors_per_celltype": 18,
+          "gene": "ENSG00000001630",
+          "qval": 0.0006010844748858,
+          "sig": true
+        },
+        {
+          "statistic": 7.4069934828228e-05,
+          "pval": 0.0001,
+          "effect_equal_donor": 0.0388692611332469,
+          "effect_pooled_counts": 0.0536970609368594,
+          "n_features": 5,
+          "n_celltypes": 7,
+          "n_donors": 18,
+          "min_donors_per_celltype": 4,
+          "max_donors_per_celltype": 18,
+          "gene": "ENSG00000002330",
+          "qval": 0.0006010844748858,
+          "sig": false
+        },
+        {
+          "statistic": 0.0010355308726092,
+          "pval": 0.0001,
+          "effect_equal_donor": 0.123255826116119,
+          "effect_pooled_counts": 0.0848907744712097,
+          "n_features": 14,
+          "n_celltypes": 7,
+          "n_donors": 18,
+          "min_donors_per_celltype": 5,
+          "max_donors_per_celltype": 18,
+          "gene": "ENSG00000002549",
+          "qval": 0.0006010844748858,
+          "sig": false
+        },
+        {
+          "statistic": 0.0009987498877365,
+          "pval": 0.0001,
+          "effect_equal_donor": 0.2229062521264222,
+          "effect_pooled_counts": 0.2273746990753118,
+          "n_features": 29,
+          "n_celltypes": 7,
+          "n_donors": 19,
+          "min_donors_per_celltype": 9,
+          "max_donors_per_celltype": 19,
+          "gene": "ENSG00000002586",
+          "qval": 0.0006010844748858,
+          "sig": true
+        },
+        {
+          "statistic": 0.0005012973352239,
+          "pval": 0.0001,
+          "effect_equal_donor": 0.1237761335128604,
+          "effect_pooled_counts": 0.1867775595856917,
+          "n_features": 24,
+          "n_celltypes": 7,
+          "n_donors": 19,
+          "min_donors_per_celltype": 4,
+          "max_donors_per_celltype": 19,
+          "gene": "ENSG00000002834",
+          "qval": 0.0006010844748858,
+          "sig": false
+        },
+        {
+          "statistic": 0.0015040265026267,
+          "pval": 0.0001,
+          "effect_equal_donor": 0.2805006854863683,
+          "effect_pooled_counts": 0.3130642716917633,
+          "n_features": 16,
+          "n_celltypes": 7,
+          "n_donors": 19,
+          "min_donors_per_celltype": 6,
+          "max_donors_per_celltype": 19,
+          "gene": "ENSG00000003056",
+          "qval": 0.0006010844748858,
+          "sig": true
+        },
+        {
+          "statistic": 0.0058028601733345,
+          "pval": 0.0001,
+          "effect_equal_donor": 0.3870080851252141,
+          "effect_pooled_counts": 0.3761808492972053,
+          "n_features": 70,
+          "n_celltypes": 7,
+          "n_donors": 19,
+          "min_donors_per_celltype": 12,
+          "max_donors_per_celltype": 19,
+          "gene": "ENSG00000003402",
+          "qval": 0.0006010844748858,
+          "sig": true
+        },
+        {
+          "statistic": 0.022912266772865,
+          "pval": 0.0001,
+          "effect_equal_donor": 0.3851594036769973,
+          "effect_pooled_counts": 0.3622596812789276,
+          "n_features": 30,
+          "n_celltypes": 7,
+          "n_donors": 18,
+          "min_donors_per_celltype": 5,
+          "max_donors_per_celltype": 18,
+          "gene": "ENSG00000004455",
+          "qval": 0.0006010844748858,
+          "sig": true
+        },
+        {
+          "statistic": 0.0125530611952681,
+          "pval": 0.0001,
+          "effect_equal_donor": 0.2994017550262423,
+          "effect_pooled_counts": 0.3065406209511012,
+          "n_features": 13,
+          "n_celltypes": 6,
+          "n_donors": 13,
+          "min_donors_per_celltype": 4,
+          "max_donors_per_celltype": 9,
+          "gene": "ENSG00000004468",
+          "qval": 0.0006010844748858,
+          "sig": true
+        }
+      ],
+      "requested_genes": [
+        {
+          "statistic": 0.0006019085683433,
+          "pval": 0.0001,
+          "effect_equal_donor": 0.2035587076231079,
+          "effect_pooled_counts": 0.2008396506814203,
+          "n_features": 51,
+          "n_celltypes": 7,
+          "n_donors": 19,
+          "min_donors_per_celltype": 7,
+          "max_donors_per_celltype": 19,
+          "gene": "ENSG00000081237",
+          "qval": 0.0006010844748858,
+          "sig": true
+        },
+        {
+          "statistic": 0.0001474270941867,
+          "pval": 0.0001,
+          "effect_equal_donor": 0.3439804648188495,
+          "effect_pooled_counts": 0.3412626874715951,
+          "n_features": 46,
+          "n_celltypes": 7,
+          "n_donors": 17,
+          "min_donors_per_celltype": 5,
+          "max_donors_per_celltype": 17,
+          "gene": "ENSG00000156738",
+          "qval": 0.0006010844748858,
+          "sig": true
+        }
+      ],
+      "requested_gene_identifiers": {
+        "PTPRC": [
+          "PTPRC",
+          "ENSG00000081237"
+        ],
+        "MS4A1": [
+          "MS4A1",
+          "ENSG00000156738"
+        ]
+      }
+    },
+    "ase": {
+      "top10": [
+        {
+          "statistic": 0.0011997134243365,
+          "pval": 0.0001,
+          "effect_equal_donor": 0.2363670154963411,
+          "effect_pooled_counts": 0.3148556144884174,
+          "hi_celltype": "B cell",
+          "lo_celltype": "Dendritic cell",
+          "n_features": 2,
+          "n_celltypes": 6,
+          "n_donors": 9,
+          "min_donors_per_celltype": 3,
+          "max_donors_per_celltype": 9,
+          "gene": "CEP63",
+          "qval": 0.231,
+          "sig": false
+        },
+        {
+          "statistic": 0.0039479586682327,
+          "pval": 0.0001,
+          "effect_equal_donor": 0.2360230717923841,
+          "effect_pooled_counts": 0.3227705011600584,
+          "hi_celltype": "Erythroid",
+          "lo_celltype": "Plasma cell",
+          "n_features": 2,
+          "n_celltypes": 5,
+          "n_donors": 9,
+          "min_donors_per_celltype": 3,
+          "max_donors_per_celltype": 8,
+          "gene": "KARS1",
+          "qval": 0.231,
+          "sig": false
+        },
+        {
+          "statistic": 0.0012400461573448,
+          "pval": 0.0001,
+          "effect_equal_donor": 0.1513974379871397,
+          "effect_pooled_counts": 0.3352733620363914,
+          "hi_celltype": "Erythroid",
+          "lo_celltype": "NK",
+          "n_features": 2,
+          "n_celltypes": 7,
+          "n_donors": 10,
+          "min_donors_per_celltype": 6,
+          "max_donors_per_celltype": 10,
+          "gene": "TAF1D",
+          "qval": 0.231,
+          "sig": false
+        },
+        {
+          "statistic": 0.0015933955786484,
+          "pval": 0.0002,
+          "effect_equal_donor": 0.0799330841337563,
+          "effect_pooled_counts": 0.2183450740548413,
+          "hi_celltype": "Plasma cell",
+          "lo_celltype": "B cell",
+          "n_features": 2,
+          "n_celltypes": 6,
+          "n_donors": 10,
+          "min_donors_per_celltype": 6,
+          "max_donors_per_celltype": 10,
+          "gene": "CD74",
+          "qval": 0.2772,
+          "sig": false
+        },
+        {
+          "statistic": 0.0006515668503773,
+          "pval": 0.0002,
+          "effect_equal_donor": 0.1656232597046341,
+          "effect_pooled_counts": 0.3215968040069167,
+          "hi_celltype": "Plasma cell",
+          "lo_celltype": "Dendritic cell",
+          "n_features": 2,
+          "n_celltypes": 7,
+          "n_donors": 15,
+          "min_donors_per_celltype": 6,
+          "max_donors_per_celltype": 15,
+          "gene": "THOC2",
+          "qval": 0.2772,
+          "sig": false
+        },
+        {
+          "statistic": 0.000147532309508,
+          "pval": 0.0005,
+          "effect_equal_donor": 0.076278507977705,
+          "effect_pooled_counts": 0.2330727858855119,
+          "hi_celltype": "Plasma cell",
+          "lo_celltype": "Dendritic cell",
+          "n_features": 2,
+          "n_celltypes": 7,
+          "n_donors": 18,
+          "min_donors_per_celltype": 3,
+          "max_donors_per_celltype": 18,
+          "gene": "MBP",
+          "qval": 0.3647368421052632,
+          "sig": false
+        },
+        {
+          "statistic": 0.0004686296421986,
+          "pval": 0.0007,
+          "effect_equal_donor": 0.2512256193772147,
+          "effect_pooled_counts": 0.1101769911504425,
+          "hi_celltype": "B cell",
+          "lo_celltype": "Erythroid",
+          "n_features": 2,
+          "n_celltypes": 4,
+          "n_donors": 6,
+          "min_donors_per_celltype": 4,
+          "max_donors_per_celltype": 6,
+          "gene": "ENSG00000272173",
+          "qval": 0.3647368421052632,
+          "sig": false
+        },
+        {
+          "statistic": 0.0003375508880351,
+          "pval": 0.0007,
+          "effect_equal_donor": 0.1555115895895506,
+          "effect_pooled_counts": 0.157233161604349,
+          "hi_celltype": "Dendritic cell",
+          "lo_celltype": "T cell",
+          "n_features": 2,
+          "n_celltypes": 6,
+          "n_donors": 7,
+          "min_donors_per_celltype": 3,
+          "max_donors_per_celltype": 7,
+          "gene": "EVI5",
+          "qval": 0.3647368421052632,
+          "sig": false
+        },
+        {
+          "statistic": 0.0001144963174373,
+          "pval": 0.0007,
+          "effect_equal_donor": 0.1009446412336332,
+          "effect_pooled_counts": 0.0950789706680375,
+          "hi_celltype": "Monocyte",
+          "lo_celltype": "B cell",
+          "n_features": 2,
+          "n_celltypes": 4,
+          "n_donors": 9,
+          "min_donors_per_celltype": 6,
+          "max_donors_per_celltype": 9,
+          "gene": "IL10RA",
+          "qval": 0.3647368421052632,
+          "sig": false
+        },
+        {
+          "statistic": 0.0003961217665643,
+          "pval": 0.0007,
+          "effect_equal_donor": 0.1248461632359361,
+          "effect_pooled_counts": 0.1518373084045425,
+          "hi_celltype": "Erythroid",
+          "lo_celltype": "Monocyte",
+          "n_features": 2,
+          "n_celltypes": 5,
+          "n_donors": 12,
+          "min_donors_per_celltype": 3,
+          "max_donors_per_celltype": 12,
+          "gene": "PCDH9",
+          "qval": 0.3647368421052632,
+          "sig": false
+        }
+      ],
+      "requested_genes": [
+        {
+          "statistic": 0.0003281713838217,
+          "pval": 0.5976,
+          "effect_equal_donor": 0.1938117359718749,
+          "effect_pooled_counts": 0.1290900643791067,
+          "hi_celltype": "Erythroid",
+          "lo_celltype": "NK",
+          "n_features": 2,
+          "n_celltypes": 7,
+          "n_donors": 7,
+          "min_donors_per_celltype": 3,
+          "max_donors_per_celltype": 7,
+          "gene": "PTPRC",
+          "qval": 0.9487670103092783,
+          "sig": false
+        }
+      ],
+      "requested_gene_identifiers": {
+        "PTPRC": [
+          "PTPRC",
+          "ENSG00000081237"
+        ],
+        "MS4A1": [
+          "MS4A1",
+          "ENSG00000156738"
+        ]
+      }
+    }
+  }
+}

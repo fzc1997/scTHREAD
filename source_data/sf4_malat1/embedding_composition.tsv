@@ -1,0 +1,7 @@
+cross	stage	run	cells	cell_types
+Forward	E6.5	E6.5	7340	13
+Forward	E7.5	E7.5	6792	29
+Forward	E8.5	E8.5	8339	32
+Reciprocal	E6.5	FJ_E6.5	8286	14
+Reciprocal	E7.5	FJ_E7.5	10981	25
+Reciprocal	E8.5	FJ_E8.5	13991	36

@@ -1,0 +1,31 @@
+{
+  "captured_at_utc": "2026-07-27T04:52:20.641453+00:00",
+  "source_url": "http://10.168.3.4:4173/browse?species=human&query=PTPRC",
+  "gene": "PTPRC",
+  "species": "human",
+  "viewport_css_px": [
+    1500,
+    1200
+  ],
+  "device_scale_factor": 4.0,
+  "max_crop_height_css_px": 900.0,
+  "only_view": "junctions",
+  "cellmap_right_view": "gene",
+  "cellmap_isoform": "ENST00000367364",
+  "browser_location": "PTPRC · ENSG00000081237 · chr1:198,638,457-198,757,476 · 317 junctions",
+  "evidence_text": "Database-wide evidence\nAll available gene and isoform evidence\nCell-type differential\nIsoform usage (DIU) · effect 0.552 · q 0.00493\nCell-type differential\nPoly(A) usage (APA) · effect 0.201 · q 0.00348\nNot significant\nASE cell-type interaction · effect 0.170 · q 1.00\n8,994 junctions\n2,341,560 molecules across available samples",
+  "crop_note": "Each crop begins at the six-tab strip and includes the active view up to a common maximum height. The gene sidebar was hidden only to use the full publication width; no data were altered.",
+  "views": [
+    {
+      "view": "junctions",
+      "active_button": "Junctions",
+      "junction_rows": 100,
+      "track_rows": 0,
+      "text_excerpt": "Junctions\n198,638,457\n198,662,261\n198,686,065\n198,709,868\n198,733,672\n198,757,476\nchr1 genomic coordinate\nScroll over the track to zoom · drag horizontally to pan · select an arc or table row for details. Batch junction lookup\nReady Select a junction to inspect its aggregated evidence.\nJunction\tSpan\tMolecules\tReads\tRuns\tStudies\nchr1:+:198639137-198639226\t89 bp\t212,632\t537,730\t44\t6\nchr1:+:198639341-198692347\t53,006 bp\t201,317\t518,892\t47\t8\nchr1:+:198704498-198706734\t2,236 bp\t136,750\t362,688\t48\t9\nchr1:+:198703372-198704472\t1,100 bp\t133,269\t356,748\t48\t9\nchr1:+:198706952-198708133\t1,181 bp\t124,450\t326,609\t49\t9\nchr1:+:198708261-198709687\t1,426 bp\t94,475\t225,280\t48\t9\nchr1:+:198734425-198735127\t702 bp\t72,895\t165,418\t52\t11\nchr1:+:198734232-198734328\t96 bp\t70,240\t157,375\t51\t10\nchr1:+:198732556-198734196\t1,640 bp\t67,864\t151,885\t50\t10\nchr1:+:198732390-198732480\t90 bp\t62,148\t139,947\t50\t10\nchr1:+:198731726-198732300\t574 bp\t60,140\t135,143\t50\t10\nchr1:+:198692373-198699564\t7,191 bp\t59,677\t160,041\t43\t6\nchr1:+:198699704-198703298\t3,594 bp\t58,808\t157,031\t44\t6\nchr1:+:198744203-198748109\t3,906 bp\t53,864\t121,517\t50\t10\nchr1:+:198728448-198729137\t689 bp\t52,366\t113,794\t50\t10\nchr1:+:198729171-198731617\t2,446 bp\t51,287\t113,468\t50\t10\nchr1:+:198709824-198712953\t3,129 bp\t49,575\t102,128\t47\t8\nchr1:+:198722476-198728340\t5,864 bp\t49,057\t104,169\t49\t10\nchr1:+:198718302-198722416\t4,114 bp\t47,872\t100,876\t49\t10\nchr1:+:198742367-198744054\t1,687 bp\t47,043\t106,606\t50\t9\nchr1:+:198692373-198696712\t4,339 bp\t47,013\t122,808\t34\t5\nchr1:+:198713072-198716682\t3,610 bp\t45,365\t90,749\t47\t8\nchr1:+:198696909-198699564\t2,655 bp\t44,955\t119,828\t34\t4\nchr1:+:198702530-198703298\t768 bp\t44,740\t117,973\t34\t5\nchr1:+:198742026-198742232\t206 bp\t43,257\t100,438\t50\t9\nchr1:+:198754404-198755906\t1,502 bp\t42,065\t94,383\t47\t9\nchr1:+:198699704-198702387\t2,683 bp\t41,317\t109,199\t32\t4\nchr1:+:198716840-198718094\t1,254 bp\t40,585\t80,155\t48\t9\nchr1:+:198752772-198754269\t1,497 bp\t39,728\t88,472\t47\t9\nchr1:+:198752371-198752594\t223 bp\t36,808\t82,305\t47\t9\nchr1:+:198735252-198741869\t6,617 bp\t35,088\t81,111\t49\t9\nchr1:+:198750626-198752249\t1,623 bp\t33,587\t74,586\t47\t9\nchr1:+:198692373-198703298\t10,925 bp\t31,884\t85,994\t48\t9\nchr1:+:198749549-198750492\t943 bp\t31,744\t69,772\t45\t7\nchr1:+:198748199-198749416\t1,217 bp\t27,181\t58,738\t45\t7\nchr1:+:198729171-198729634\t463 bp\t1,872\t4,015\t22\t3\nchr1:+:198735251-198741866\t6,615 bp\t1,676\t3,025\t33\t6\nchr1:+:198742020-198742225\t205 bp\t1,639\t3,094\t32\t6\nchr1:+:198729765-198731617\t1,852 bp\t1,561\t3,374\t20\t2\nchr1:+:198639334-198692347\t53,013 bp\t1,518\t1,529\t35\t5\nchr1:+:198731462-198731617\t155 bp\t1,263\t2,962\t23\t2\nchr1:+:198713069-198716679\t3,610 bp\t1,092\t2,404\t31\t6\nchr1:+:198709823-198712951\t3,128 bp\t946\t2,183\t28\t5\nchr1:+:198708261-198712953\t4,692 bp\t900\t2,030\t26\t5\nchr1:+:198639341-198653947\t14,606 bp\t891\t1,887\t28\t5\nchr1:+:198692373-198694018\t1,645 bp\t890\t2,131\t33\t5\nchr1:+:198706855-198708133\t1,278 bp\t886\t2,254\t22\t3\nchr1:+:198754404-198755903\t1,499 bp\t826\t1,577\t26\t4\nchr1:+:198734424-198735126\t702 bp\t803\t1,499\t28\t4\nchr1:+:198752766-198754263\t1,497 bp\t746\t1,511\t26\t4\nchr1:+:198750624-198752247\t1,623 bp\t722\t1,444\t26\t4\nchr1:+:198752369-198752592\t223 bp\t704\t1,389\t25\t4\nchr1:+:198699704-198702350\t2,646 bp\t701\t1,810\t22\t2\nchr1:+:198739210-198741869\t2,659 bp\t680\t1,700\t27\t4\nchr1:+:198744200-198748106\t3,906 bp\t673\t1,292\t24\t4\nchr1:+:198749556-198750498\t942 bp\t672\t1,335\t21\t3\nchr1:+:198748197-198749412\t1,215 bp\t658\t1,329\t23\t4\nchr1:+:198708260-198709686\t1,426 bp\t628\t1,372\t25\t3\nchr1:+:198710997-198712953\t1,956 bp\t543\t1,070\t23\t4\nchr1:+:198706949-198708130\t1,181 bp\t495\t1,023\t23\t3\nchr1:+:198696909-198703298\t6,389 bp\t493\t1,371\t22\t3\nchr1:-:198657821-198660623\t2,802 bp\t403\t413\t8\t5\nchr1:+:198694140-198696712\t2,572 bp\t385\t903\t21\t2\nchr1:+:198728445-198729135\t690 bp\t369\t768\t23\t3\nchr1:-:198660706-198666999\t6,293 bp\t338\t344\t6\t3\nchr1:+:198729171-198731370\t2,199 bp\t316\t665\t20\t2\nchr1:+:198708252-198709682\t1,430 bp\t305\t723\t23\t5\nchr1:+:198742374-198744055\t1,681 bp\t305\t654\t24\t4\nchr1:+:198732390-198732478\t88 bp\t303\t636\t28\t4\nchr1:+:1987",
+      "file": "01_junctions.png",
+      "png_bytes": 574747,
+      "junction_table_file": "junction_first100_live.tsv",
+      "junction_table_rows": 100
+    }
+  ]
+}

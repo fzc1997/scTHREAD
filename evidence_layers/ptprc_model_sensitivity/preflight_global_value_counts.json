@@ -1,0 +1,50 @@
+{
+  "count_unit": {
+    "READ": 2500000
+  },
+  "reference_build": {
+    "GRCh38": 2500000
+  },
+  "exon_class": {},
+  "classification_status": {
+    "FSM": 602642,
+    "ISM": 273205,
+    "NNC": 650139,
+    "__NULL__": 293545,
+    "INTERGENIC": 43886,
+    "NIC": 76317,
+    "CLASSIFICATION_AMBIGUOUS": 27091,
+    "GENIC": 15896,
+    "CLASSIFICATION_UNKNOWN": 5852,
+    "ANTISENSE": 30702,
+    "GENIC_INTRON": 437203,
+    "MONO_EXON_MATCH": 43522
+  },
+  "classification_normalized_values": {},
+  "assignment_types": {
+    "unique": 644620,
+    "ambiguous": 255747,
+    "inconsistent_non_intronic": 354970,
+    "__NULL__": 205059,
+    "noninformative": 546938,
+    "inconsistent": 219260,
+    "unique_minor_difference": 56875,
+    "inconsistent_ambiguous": 208526,
+    "intergenic": 8005
+  },
+  "polya_values": {
+    "True": 1647862,
+    "__NULL__": 760002,
+    "False": 92136
+  },
+  "endpoint_evidence_tier_3p": {
+    "E1_POLYA_CONSISTENT_3P": 1647240,
+    "__NULL__": 293545,
+    "E0_OBSERVED_ONLY": 559215
+  },
+  "polya_conflict": {
+    "False": 2500000
+  },
+  "read_admitted_primary": {},
+  "observed_exact_path_id": {}
+}

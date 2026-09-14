@@ -1,0 +1,27 @@
+{
+  "generated_at": "2026-09-13T15:08:57Z",
+  "script": "/gpfs/home/fuzc/project/scTHREAD/NAR_database/scripts/preflight_truncation_sensitivity_20260913.py",
+  "classification_path": "/gpfs/home/fuzc/project/scTHREAD/NAR_database/docs/processing_logic_20260909/run_classification.tsv",
+  "classification_sha256": "f6f11083e8e97360368235f84decd309f92f9b6ae93bc5a63f5ca314dadbd712",
+  "facts_root": "/gpfs/home/fuzc/Seq_Database/scLong/results/science_first/phase1_resolved_reads_v4",
+  "total_release_runs": 34,
+  "facts_present": 25,
+  "facts_missing_or_invalid": 9,
+  "columns": [
+    "run_accession",
+    "count_unit",
+    "reference_build",
+    "gene_id",
+    "observed_5p_raw",
+    "observed_3p_raw",
+    "exon_class",
+    "classification_status",
+    "classification_normalized_values",
+    "assignment_types",
+    "polya_values",
+    "endpoint_evidence_tier_3p",
+    "polya_conflict",
+    "read_admitted_primary",
+    "observed_exact_path_id"
+  ]
+}

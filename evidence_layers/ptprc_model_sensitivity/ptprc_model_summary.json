@@ -1,0 +1,24 @@
+{
+  "generated_at": "2026-09-13T15:24:01Z",
+  "script": "/gpfs/home/fuzc/project/scTHREAD/NAR_database/scripts/run_ptprc_model_truncation_sensitivity_20260913.py",
+  "target_gene": "ENSG00000081237",
+  "target_name": "PTPRC",
+  "studies": [
+    "GSE276974",
+    "GSE307660"
+  ],
+  "runs_in_scope": 34,
+  "runs_scorable": 33,
+  "missing_or_unscorable": 1,
+  "filters": [
+    "F0_all_positive_models",
+    "F1_pas_supported_models",
+    "F2_high_confidence_reference_models",
+    "F3_pas_supported_novel_models"
+  ],
+  "polyasite_path": "/gpfs/home/fuzc/project/Genome_reference/endpoint_atlas/hg38/atlas.clusters.2.0.GRCh38.96.bed.gz",
+  "polyasite_sha256": "d60dc7addad2982c3463dcaab67d0a74d278a6e33a2852a4373bd1eeb4174595",
+  "window_bp_each_side": 25,
+  "gtf_coordinate_conversion": "GTF 1-based inclusive terminal coordinate converted to 0-based for BED comparison",
+  "model_level_note": "PAS support is endpoint plausibility, not proof of full-length molecule. F2 is a high-confidence reference-model subset."
+}

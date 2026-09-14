@@ -1,0 +1,23 @@
+{
+  "target": "PTPRC",
+  "runs_total": 34,
+  "runs_with_positive_models": 33,
+  "runs_with_f0_f1_f2_rows": 33,
+  "filters": [
+    "F0_all_positive_models",
+    "F1_pas_supported_models",
+    "F2_high_confidence_reference_models"
+  ],
+  "key_transcripts": {
+    "RA_like": "ENST00000442510",
+    "RO_like": "ENST00000348564"
+  },
+  "canonical_3p_end_1based": 198757476,
+  "proximal_diagnostic_threshold_bp": 10000,
+  "summary_paths": [
+    "ptprc_model_comparison.tsv",
+    "ptprc_endpoint_burden_by_filter.tsv",
+    "ptprc_model_sensitivity_summary.tsv"
+  ],
+  "interpretation_boundary": "Model-end/PAS sensitivity does not prove full-length molecules; it quantifies how a high-confidence reference-model subset changes usage."
+}

@@ -1,0 +1,4 @@
+filter	model_rows	total_count	proximal_unsupported_count	proximal_unsupported_fraction
+F0_all_positive_models	327	151856.0	113522.0	0.7475634811927089
+F1_pas_supported_models	130	37880.0	0	0.0
+F2_high_confidence_reference_models	75	14164.0	0	0.0

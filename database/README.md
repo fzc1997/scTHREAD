@@ -16,7 +16,7 @@ processing routes (113 + 42 + 286 + 12 = 453):
 | ONT, sample/file-resolved (plate Smart-seq2) | 286 | minimap2 2.31-r1302 `splice`; one FASTQ = one cell | `processing_routes/run_smartseq2_isoquant.sh` |
 | PacBio, sample/file-resolved (Fluidigm C1) | 12 | minimap2 2.31-r1302 `splice:hq`; 12 files = 6 objects × 2 chemistries | `processing_routes/run_fluidigm_c1_mouse.sh` |
 
-All four routes quantify transcripts and isoforms with **IsoQuant 3.13.1**
+All four routes quantify transcripts and isoforms with **IsoQuant 3.13.1** (alignment with minimap2 2.31-r1302 and SAMtools 1.24 where applied directly; the droplet route runs wf-single-cell 3.3.4 on Nextflow 26.04.4)
 (`--read_group tag:CB` for barcode-resolved routes, `--read_group file_name
 --fl_data` for sample/file-resolved routes). Shared output: gene counts,
 transcript counts, read assignments and transcript models.

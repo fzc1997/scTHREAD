@@ -1,0 +1,5 @@
+filter	metric	n	wilcoxon_stat	p_value	p_method	median_delta	mean_delta	positive_fraction	q_value_bh	significant_q05
+F1_pas_supported_models	RA_like_usage_delta	33	0.0	7.952884142692727e-07	normal_approximation_due_to_zero_differences	0.1703282158141417	0.2310329777578698	0.9696969696969697	1.5905768285385453e-06	True
+F1_pas_supported_models	RO_like_usage_delta	33	0.0	0.0009815397525216685	normal_approximation_due_to_zero_differences	0.0	0.056516895270561036	0.42424242424242425	0.0009815397525216685	True
+F2_high_confidence_reference_models	RA_like_usage_delta	33	0.0	7.952884142692727e-07	normal_approximation_due_to_zero_differences	0.5771725806187994	0.5727992201163236	0.9696969696969697	1.5905768285385453e-06	True
+F2_high_confidence_reference_models	RO_like_usage_delta	33	0.0	0.0009815397525216685	normal_approximation_due_to_zero_differences	0.0	0.10868638845517953	0.42424242424242425	0.0009815397525216685	True

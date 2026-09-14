@@ -22,14 +22,14 @@ From a package root with the raw tagged BAMs and annotation TSVs supplied via
 the manuscript accessions:
 
 ```bash
-python reproducibility/cd45_umi_sensitivity/measure_cd45_umi_sensitivity.py \
+python evidence_layers/cd45_sensitivity/measure_cd45_umi_sensitivity.py \
   --bam-root /path/to/GSE276974/runs \
   --annotation /path/to/GSE276974_cell_annotation.tsv \
   --study GSE276974 \
   --output GSE276974.tsv \
   --manifest GSE276974.manifest.json
 
-python reproducibility/cd45_umi_sensitivity/summarize_cd45_umi_sensitivity.py \
+python evidence_layers/cd45_sensitivity/summarize_cd45_umi_sensitivity.py \
   --input GSE276974.tsv GSE307660.tsv \
   --output-tsv cd45_umi_sensitivity.tsv \
   --output-json cd45_umi_sensitivity.json

@@ -1,0 +1,67 @@
+{
+  "method": "source-level bootstrap of run-level paired metrics",
+  "seed": 20260913,
+  "resamples": 1000,
+  "rows": [
+    {
+      "filter": "F1_pas_supported_models",
+      "metric": "RA_like_delta",
+      "n_runs": 33,
+      "estimate_median": 0.1703282158141417,
+      "ci95_low": 0.1452057804134571,
+      "ci95_high": 0.26486160445010387,
+      "seed": 20260913,
+      "resamples": 1000
+    },
+    {
+      "filter": "F1_pas_supported_models",
+      "metric": "RO_like_delta",
+      "n_runs": 33,
+      "estimate_median": 0.0,
+      "ci95_low": 0.0,
+      "ci95_high": 0.04108002927170769,
+      "seed": 20260913,
+      "resamples": 1000
+    },
+    {
+      "filter": "F1_pas_supported_models",
+      "metric": "count_retention_vs_F0",
+      "n_runs": 33,
+      "estimate_median": 0.24147364581433522,
+      "ci95_low": 0.1508828250401284,
+      "ci95_high": 0.34707511813589703,
+      "seed": 20260913,
+      "resamples": 1000
+    },
+    {
+      "filter": "F2_high_confidence_reference_models",
+      "metric": "RA_like_delta",
+      "n_runs": 33,
+      "estimate_median": 0.5771725806187994,
+      "ci95_low": 0.4923877163386838,
+      "ci95_high": 0.6556737242657821,
+      "seed": 20260913,
+      "resamples": 1000
+    },
+    {
+      "filter": "F2_high_confidence_reference_models",
+      "metric": "RO_like_delta",
+      "n_runs": 33,
+      "estimate_median": 0.0,
+      "ci95_low": 0.0,
+      "ci95_high": 0.18774495658957008,
+      "seed": 20260913,
+      "resamples": 1000
+    },
+    {
+      "filter": "F2_high_confidence_reference_models",
+      "metric": "count_retention_vs_F0",
+      "n_runs": 33,
+      "estimate_median": 0.08692185007974482,
+      "ci95_low": 0.07699316628701594,
+      "ci95_high": 0.11307678278314791,
+      "seed": 20260913,
+      "resamples": 1000
+    }
+  ]
+}

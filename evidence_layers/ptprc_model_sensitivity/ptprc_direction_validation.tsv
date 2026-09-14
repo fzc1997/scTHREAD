@@ -1,0 +1,3 @@
+filter	positive	n	fraction	exact_binomial_ci95_low	exact_binomial_ci95_high
+F1_pas_supported_models	32	33	0.9696969696969697	0.8424060277275032	0.9992330879249519
+F2_high_confidence_reference_models	32	33	0.9696969696969697	0.8424060277275032	0.9992330879249519

@@ -36,8 +36,9 @@ correction mode the first strand passing the posterior threshold wins).
 
 ## Tool versions used for the frozen release
 
-- minimap2 2.31-r1302, IsoQuant 3.13.1 (PacBio and sample/library-file routes);
-  minimap2 2.24-r1122 for the 10x scONT droplet route inside `wf-single-cell`.
+- minimap2 2.31-r1302, SAMtools 1.24, IsoQuant 3.13.1 (PacBio and sample/library-file routes);
+  the 10x scONT droplet route runs wf-single-cell 3.3.4 on Nextflow 26.04.4, with minimap2 2.24-r1122
+  inside the workflow.
 - 10x whitelists per run family: 737K-august-2016, 3M-february-2018,
   3M-3pgex-may-2023 (not redistributed here; see 10x Genomics).
 - Accessions, per-run route assignment, whitelist assignment and output

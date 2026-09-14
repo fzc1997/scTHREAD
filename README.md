@@ -45,6 +45,21 @@ python figures/supplementary/sf5_discovery/render_nar_sf5_discovery_screen.py \
 
 Figure-specific commands and caveats: [`figures/README.md`](figures/README.md).
 
+## Examples and where each result appears
+
+One real output example for every analysis family, with the producing script
+and the manuscript surface it feeds, is indexed in
+[`evidence_layers/examples/README.md`](evidence_layers/examples/README.md).
+
+## Releases and citation
+
+Each reviewed snapshot of this package is an annotated tag
+(`v1.6-reproducibility`, `v1.7-reproducibility`, `v1.10-reproducibility`, …)
+on the `master`/`revision-v1.6-reproducibility` heads; the manuscript cites
+the exact commit of the snapshot it used. The frozen data tables are archived
+on Zenodo under concept DOI 10.5281/zenodo.21826301 (resolving to the latest
+archived version).
+
 ## Frozen release scope
 
 The release reported in the manuscript is **453 run records from 34 datasets

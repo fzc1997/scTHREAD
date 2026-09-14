@@ -39,8 +39,12 @@ class TestCatalogHeadline(unittest.TestCase):
         done = R.registry_done()
         done["isoquant_cells"] = pd.to_numeric(done.get("isoquant_cells"), errors="coerce")
         self.assertEqual(h["n_runs"], int(len(done)))
-        self.assertEqual(h["n_studies"], int(done["gse"].nunique()))
-        self.assertEqual(h["n_cells"], int(done["isoquant_cells"].fillna(0).sum()))
+        self.assertEqual(h["n_studies"], int(R.study_cells()["gse"].nunique()))
+        # Cell authority is the per-study table: several studies have no per-run
+        # decomposition, so the per-run sum can only be >= the headline (see
+        # registry_done docstring).
+        self.assertEqual(h["n_cells"], int(R.study_cells()["cells"].sum()))
+        self.assertGreaterEqual(int(done["isoquant_cells"].fillna(0).sum()), h["n_cells"])
 
     def test_default_scope_is_the_manuscript_snapshot(self):
         """Fig.1 must not drift back onto the growing live registry.
@@ -51,10 +55,10 @@ class TestCatalogHeadline(unittest.TestCase):
         self.assertEqual(R.CATALOG_SCOPE, "snapshot")
         h = R.catalog_headline()
         self.assertEqual(
-            (h["n_runs"], h["n_studies"], h["n_cells"]), (434, 30, 850_938)
+            (h["n_runs"], h["n_studies"], h["n_cells"]), (453, 34, 923_389)
         )
-        self.assertEqual((h["n_human"], h["n_mouse"]), (110, 324))
-        self.assertEqual((h["n_ont"], h["n_pacbio"]), (384, 50))
+        self.assertEqual((h["n_human"], h["n_mouse"]), (117, 336))
+        self.assertEqual((h["n_ont"], h["n_pacbio"]), (399, 54))
 
 
 class TestLoadCatalogBio(unittest.TestCase):
@@ -66,7 +70,11 @@ class TestLoadCatalogBio(unittest.TestCase):
         self.assertIn("system", df.columns)
         self.assertTrue((df["n_cells"] >= 0).all())
         h = R.catalog_headline()
-        self.assertEqual(int(df["n_cells"].sum()), h["n_cells"])
+        # The per-GSE atlas carries per-run isoquant cell sums (bar panels);
+        # the headline count is the per-study authority, which several studies
+        # lack a per-run decomposition for (see registry_done docstring), so
+        # the atlas total is >= the headline rather than equal to it.
+        self.assertGreaterEqual(int(df["n_cells"].sum()), h["n_cells"])
         self.assertEqual(int(df["gse"].nunique()), h["n_studies"])
 
 

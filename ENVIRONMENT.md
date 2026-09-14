@@ -7,8 +7,7 @@ reducer or a validation workflow:
 
 | Variable | Required content |
 |---|---|
-| `SCTHREAD_SCLONG_ROOT` | Local root containing the source registry, annotations and IsoQuant inputs |
-| `SCTHREAD_EXTSSD_ROOT` | Workstation root hosting the IsoQuant tool env, GRCm39 reference and Fluidigm C1 inputs used by `reproducibility/processing_routes/run_fluidigm_c1_mouse.sh` |
+| `SCTHREAD_EXTSSD_ROOT` | Workstation root hosting the IsoQuant tool env, GRCm39 reference and Fluidigm C1 inputs used by `database/processing_routes/run_fluidigm_c1_mouse.sh` |
 | `SCTHREAD_REFERENCE_ROOT` | Root containing `10x_ref/` and `endpoint_atlas/` reference resources |
 | `SCTHREAD_FIGURE_OUTPUT` | Output directory for figure renderers (default `figures/output/`) |
 | `SCTHREAD_SCLONG_ROOT` | Root providing the sample-registry snapshot and the two processing-route data roots (defaults resolve inside this repository or its documented machine layout) |

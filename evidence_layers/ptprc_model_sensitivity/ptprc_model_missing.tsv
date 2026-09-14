@@ -1,0 +1,2 @@
+run	study	gtf	counts	reason
+SRR30639550	GSE276974	/gpfs/home/fuzc/Seq_Database/scLong/data/isoquant/GSE276974/SRR30639550/SRR30639550/SRR30639550.transcript_models.gtf	/gpfs/home/fuzc/Seq_Database/scLong/data/isoquant/GSE276974/SRR30639550/SRR30639550/SRR30639550.transcript_counts.tsv	no_positive_ptprc_models

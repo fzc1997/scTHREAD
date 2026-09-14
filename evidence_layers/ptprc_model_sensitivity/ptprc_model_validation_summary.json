@@ -1,0 +1,17 @@
+{
+  "status": "PASS",
+  "checks": {
+    "f0_f1_f2_nested": true,
+    "support_flags_consistent": true,
+    "wilcoxon_tests": 4,
+    "bh_correction": "four paired comparisons",
+    "bootstrap_seed": 20260913,
+    "bootstrap_resamples": 1000
+  },
+  "outputs": [
+    "ptprc_model_validation.tsv",
+    "ptprc_direction_validation.tsv",
+    "ptprc_model_bootstrap_summary.json"
+  ],
+  "interpretation": "Validation supports a measurable paired shift in the scoped model-level sensitivity output; it does not establish that every filtered model is artifactual or that all transcript abundance is corrected."
+}

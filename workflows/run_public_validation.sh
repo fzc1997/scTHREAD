@@ -4,6 +4,7 @@ PY="${PYTHON:-python3}"
 root=$(cd "$(dirname "$0")/.." && pwd)
 cd "$root"
 ${PY} -m compileall -q database evidence_layers figures
+${PY} figures/main/fig2/test_nar_loaders.py
 ${PY} evidence_layers/biological_unit_validation/validate_results.py
 ${PY} - <<'PY'
 import csv

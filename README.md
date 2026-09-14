@@ -55,9 +55,7 @@ and the manuscript surface it feeds, is indexed in
 
 This package accompanies the manuscript *"scTHREAD: a cell-resolved
 long-read transcriptome database with linked isoform, poly(A), junction and
-allelic evidence"* by Zhi-Can Fu, Yelian Yan, Chunchun Wu, Ran Song, Xiaobo
-Wang, Jianfan Wei, Zhuangzhuang Lu, Tietuo Tao, Peng Lu, Wentao Cui, Yanqiang
-Li, Keliang Wu, Yong Chen, Tao Huang and Shenli Yuan (under review).
+allelic evidence"* (Fu Z-C, et al.; under review).
 
 ## Frozen release scope
 

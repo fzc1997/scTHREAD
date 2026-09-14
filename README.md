@@ -57,9 +57,7 @@ This package accompanies the manuscript *"scTHREAD: a cell-resolved
 long-read transcriptome database with linked isoform, poly(A), junction and
 allelic evidence"* by Zhi-Can Fu, Yelian Yan, Chunchun Wu, Ran Song, Xiaobo
 Wang, Jianfan Wei, Zhuangzhuang Lu, Tietuo Tao, Peng Lu, Wentao Cui, Yanqiang
-Li, Keliang Wu, Yong Chen, Tao Huang and Shenli Yuan (under review). The
-frozen data tables are archived on Zenodo under concept DOI
-10.5281/zenodo.21826301.
+Li, Keliang Wu, Yong Chen, Tao Huang and Shenli Yuan (under review).
 
 ## Frozen release scope
 

@@ -1,9 +1,7 @@
-# scTHREAD reproducibility release staging
+# scTHREAD reproducibility code package
 
-This clean staging tree is based on the public `fzc1997/scTHREAD` data-only
-repository and adds the reproducibility and figure entry points required by the
-NAR revision. It is published as the reviewed GitHub branch/tag
-`v1.6-reproducibility` (and later versions) for Zenodo version archiving.
+This package extends the public `fzc1997/scTHREAD` data-only repository with
+the reproducibility and figure entry points for the frozen release.
 
 ## Included scope
 
@@ -15,8 +13,8 @@ NAR revision. It is published as the reviewed GitHub branch/tag
   SAM tagging) and the sample/library-file-grouped routes (plate Smart-seq2,
   Fluidigm C1), with per-route documentation and patch notes;
 - `results/paper1/figdata/` and `results/paper1/f2_grammar/figdata/`: frozen
-  source tables used by the included NAR figure renderers;
-- `figures/scripts/`: path-configurable NAR Figure 1–3 and graphical-abstract
+  source tables used by the included figure renderers;
+- `figures/scripts/`: path-configurable Figure 1–3 and graphical-abstract
   renderers plus QA helpers;
 - `tables/processing_manifest_public.tsv`: the redacted 453-run layer contract;
 - frozen release tables, P0 observed/null artifacts, CD45 UMI and representative
@@ -33,6 +31,3 @@ do not imply cross-run equivalence or platform invariance.
 ```bash
 ./workflows/run_public_validation.sh
 ```
-
-The external GitHub/Zenodo publication step must be completed only after a
-human review of the staged file whitelist, license and author metadata.

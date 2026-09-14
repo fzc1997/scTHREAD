@@ -1,7 +1,7 @@
 # Patch notes — public copies vs in-house sources
 
 The three PacBio files are byte-identical copies of the in-house scripts used
-for the frozen release (SHA-256 below matches the internal staging manifest):
+for the frozen release (SHA-256):
 
 ```
 6694c916573a14f951d696ce30f69808ca15f568ed4f3708ee18eae22e25ae2a  pacbio_sc_extract.py
